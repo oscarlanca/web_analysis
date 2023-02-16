@@ -1,0 +1,2233 @@
+region,os,device,amplitude_id
+Aguascalientes,Chrome 100,Windows,1
+Aguascalientes,Chrome 101,Windows,2
+Aguascalientes,Chrome 102,Windows,23
+Aguascalientes,Chrome 69,Chromium OS,1
+Aguascalientes,Chrome 92,Android,3
+Aguascalientes,Chrome 96,Windows,1
+Aguascalientes,Chrome Mobile 100,Android,4
+Aguascalientes,Chrome Mobile 101,Android,11
+Aguascalientes,Chrome Mobile 102,Android,151
+Aguascalientes,Chrome Mobile 102,Apple iPhone,4
+Aguascalientes,Chrome Mobile 38,Android,2
+Aguascalientes,Chrome Mobile 68,Android,1
+Aguascalientes,Chrome Mobile 70,Android,1
+Aguascalientes,Chrome Mobile 81,Android,2
+Aguascalientes,Chrome Mobile 84,Android,1
+Aguascalientes,Chrome Mobile 86,Android,1
+Aguascalientes,Chrome Mobile 87,Android,1
+Aguascalientes,Chrome Mobile 88,Android,1
+Aguascalientes,Chrome Mobile 90,Android,1
+Aguascalientes,Chrome Mobile 91,Android,4
+Aguascalientes,Chrome Mobile 95,Android,1
+Aguascalientes,Chrome Mobile 97,Android,1
+Aguascalientes,Chrome Mobile 99,Android,1
+Aguascalientes,Chrome WebView 102,Android,1
+Aguascalientes,Chrome WebView 70,Android,1
+Aguascalientes,Chrome WebView 78,Android,1
+Aguascalientes,Chrome WebView 88,Android,1
+Aguascalientes,Chrome WebView 99,Android,1
+Aguascalientes,Edge 102,Windows,2
+Aguascalientes,Facebook 305,Android,1
+Aguascalientes,Facebook 362,Android,1
+Aguascalientes,Facebook 369,Android,2
+Aguascalientes,GSA 215,Apple iPhone,1
+Aguascalientes,Mobile Safari 12,Apple iPhone,1
+Aguascalientes,Mobile Safari 14,Apple iPhone,1
+Aguascalientes,Opera 62,Android,1
+Aguascalientes,Opera 69,Android,1
+Aguascalientes,Samsung Browser 17,Android,4
+Alabama,Chrome Mobile 102,Android,1
+Andalusia,Mobile Safari 15,Apple iPhone,1
+Andhra Pradesh,Chrome Mobile 90,Android,1
+Antioquia,Chrome 101,Mac,1
+Antioquia,Chrome 102,Windows,1
+Arizona,Chrome 102,Windows,1
+Arizona,Chrome 96,Windows,2
+Arizona,Chrome Mobile 102,Android,1
+Arizona,Chrome Mobile 102,Apple iPhone,1
+Arizona,Mobile Safari 15,Apple iPhone,3
+Arizona,WebKit 605,Apple iPhone,1
+Asuncion,Mobile Safari 15,Apple iPhone,1
+Baja California,Chrome 100,Windows,4
+Baja California,Chrome 101,Windows,8
+Baja California,Chrome 102,Android,4
+Baja California,Chrome 102,Linux,2
+Baja California,Chrome 102,Windows,70
+Baja California,Chrome 92,Android,12
+Baja California,Chrome Mobile 100,Android,21
+Baja California,Chrome Mobile 101,Android,74
+Baja California,Chrome Mobile 101,Apple iPhone,1
+Baja California,Chrome Mobile 102,Android,598
+Baja California,Chrome Mobile 102,Apple iPhone,25
+Baja California,Chrome Mobile 38,Android,1
+Baja California,Chrome Mobile 52,Android,1
+Baja California,Chrome Mobile 55,Android,2
+Baja California,Chrome Mobile 68,Android,1
+Baja California,Chrome Mobile 73,Apple iPad,1
+Baja California,Chrome Mobile 79,Android,4
+Baja California,Chrome Mobile 80,Android,3
+Baja California,Chrome Mobile 81,Android,4
+Baja California,Chrome Mobile 86,Android,1
+Baja California,Chrome Mobile 87,Android,8
+Baja California,Chrome Mobile 89,Android,1
+Baja California,Chrome Mobile 90,Android,4
+Baja California,Chrome Mobile 91,Android,1
+Baja California,Chrome Mobile 92,Android,4
+Baja California,Chrome Mobile 92,Apple iPhone,2
+Baja California,Chrome Mobile 93,Android,2
+Baja California,Chrome Mobile 93,Apple iPhone,1
+Baja California,Chrome Mobile 94,Android,2
+Baja California,Chrome Mobile 95,Android,3
+Baja California,Chrome Mobile 96,Android,7
+Baja California,Chrome Mobile 97,Android,3
+Baja California,Chrome Mobile 98,Android,4
+Baja California,Chrome Mobile 99,Android,14
+Baja California,Chrome WebView 101,Android,4
+Baja California,Chrome WebView 102,Android,5
+Baja California,Chrome WebView 62,Android,1
+Baja California,Chrome WebView 83,Android,1
+Baja California,Chrome WebView 88,Android,1
+Baja California,Chrome WebView 95,Android,1
+Baja California,Chrome WebView 98,Android,1
+Baja California,Edge 101,Windows,1
+Baja California,Edge 102,Windows,6
+Baja California,Facebook 336,Android,1
+Baja California,Facebook 350,Android,1
+Baja California,Facebook 362,Android,4
+Baja California,Facebook 363,Apple iPhone,1
+Baja California,Facebook 365,Android,1
+Baja California,Facebook 366,Android,1
+Baja California,Facebook 369,Android,6
+Baja California,Firefox 101,Windows,1
+Baja California,Firefox 48,KAIOS,1
+Baja California,Firefox 99,Windows,1
+Baja California,GSA 132,Apple iPhone,1
+Baja California,GSA 171,Apple iPhone,1
+Baja California,GSA 177,Apple iPhone,1
+Baja California,GSA 203,Apple iPhone,1
+Baja California,GSA 210,Apple iPhone,2
+Baja California,GSA 211,Apple iPad,1
+Baja California,GSA 213,Apple iPhone,28
+Baja California,GSA 214,Apple iPhone,1
+Baja California,GSA 215,Apple iPhone,2
+Baja California,Mobile Safari 12,Apple iPhone,2
+Baja California,Mobile Safari 13,Apple iPhone,2
+Baja California,Mobile Safari 14,Apple iPhone,12
+Baja California,Mobile Safari 15,Apple iPhone,59
+Baja California,Opera 63,Windows,1
+Baja California,Opera 66,Android,1
+Baja California,Opera 86,Windows,1
+Baja California,Opera 87,Windows,2
+Baja California,Safari,Linux,1
+Baja California,Samsung Browser 11,Android,1
+Baja California,Samsung Browser 13,Android,1
+Baja California,Samsung Browser 16,Android,3
+Baja California,Samsung Browser 17,Android,16
+Baja California,Silk 100,Android,2
+Baja California,WebKit 605,Apple iPad,1
+Baja California,WebKit 605,Apple iPhone,1
+Baja California Sur,Chrome 101,Windows,2
+Baja California Sur,Chrome 102,Linux,1
+Baja California Sur,Chrome 102,Windows,15
+Baja California Sur,Chrome 92,Android,1
+Baja California Sur,Chrome Mobile 100,Android,1
+Baja California Sur,Chrome Mobile 101,Android,8
+Baja California Sur,Chrome Mobile 102,Android,102
+Baja California Sur,Chrome Mobile 102,Apple iPhone,2
+Baja California Sur,Chrome Mobile 79,Android,1
+Baja California Sur,Chrome Mobile 81,Android,1
+Baja California Sur,Chrome Mobile 91,Android,1
+Baja California Sur,Chrome Mobile 93,Android,1
+Baja California Sur,Chrome Mobile 96,Android,2
+Baja California Sur,Chrome Mobile 99,Android,3
+Baja California Sur,Chrome WebView 102,Android,2
+Baja California Sur,Chrome WebView 74,Android,1
+Baja California Sur,Facebook 367,Android,1
+Baja California Sur,Firefox 101,Windows,1
+Baja California Sur,GSA 135,Apple iPhone,1
+Baja California Sur,GSA 213,Apple iPhone,3
+Baja California Sur,GSA 214,Apple iPhone,1
+Baja California Sur,MIUI Browser 13,Android,1
+Baja California Sur,Mobile Safari 14,Apple iPhone,1
+Baja California Sur,Safari 15,Mac,1
+Baja California Sur,Samsung Browser 11,Android,1
+Baja California Sur,Samsung Browser 17,Android,4
+Baja California Sur,Silk 100,Android,1
+Barcelona,Chrome 102,Windows,1
+Bitola,Chrome Mobile 75,Android,1
+Bogota D.C.,Chrome 100,Windows,1
+Bogota D.C.,Chrome 102,Windows,3
+Bogota D.C.,Chrome Mobile 100,Android,1
+Bogota D.C.,Chrome Mobile 102,Android,4
+Bogota D.C.,Chrome Mobile 98,Android,1
+Bogota D.C.,Mobile Safari 15,Apple iPhone,2
+Bogota D.C.,Samsung Browser 16,Android,1
+Brandenburg,Chrome 100,Windows,1
+Bremen,Chrome Mobile 102,Android,1
+British Columbia,Chrome 102,Windows,1
+British Columbia,Chrome Mobile 102,Android,1
+Buenos Aires F.D.,Chrome 101,Mac,1
+Buenos Aires F.D.,Chrome Mobile 101,Android,1
+Buenos Aires F.D.,Chrome WebView 102,Android,1
+Busan,Chrome 79,Windows,6
+Busan,Chrome 80,Windows,3
+Busan,Chrome 96,Windows,3
+Busan,Chrome 97,Windows,3
+Busan,Chrome 98,Windows,2
+Cairo Governorate,Chrome 100,Windows,1
+California,Chrome 101,Linux,1
+California,Chrome 101,Windows,1
+California,Chrome 102,Windows,9
+California,Chrome 80,Windows,1
+California,Chrome 86,Windows,1
+California,Chrome 96,Windows,1
+California,Chrome 97,Windows,1
+California,Chrome Mobile 101,Android,5
+California,Chrome Mobile 101,Apple iPhone,1
+California,Chrome Mobile 102,Android,13
+California,Chrome Mobile 102,Apple iPhone,1
+California,Chrome Mobile 97,Android,1
+California,Chrome Mobile 99,Android,1
+California,Chrome WebView 101,Android,1
+California,Firefox 17,Linux,4
+California,Mobile Safari 15,Apple iPhone,2
+Campeche,Chrome 101,Windows,2
+Campeche,Chrome 102,Windows,16
+Campeche,Chrome 70,Android,1
+Campeche,Chrome 81,Android,1
+Campeche,Chrome 92,Android,5
+Campeche,Chrome 98,Android,1
+Campeche,Chrome 98,Windows,1
+Campeche,Chrome Mobile 100,Android,3
+Campeche,Chrome Mobile 101,Android,11
+Campeche,Chrome Mobile 102,Android,135
+Campeche,Chrome Mobile 46,Android,1
+Campeche,Chrome Mobile 81,Android,1
+Campeche,Chrome Mobile 85,Android,1
+Campeche,Chrome Mobile 87,Android,1
+Campeche,Chrome Mobile 91,Android,2
+Campeche,Chrome Mobile 94,Android,4
+Campeche,Chrome Mobile 95,Android,2
+Campeche,Chrome Mobile 96,Android,1
+Campeche,Chrome Mobile 98,Android,1
+Campeche,Chrome Mobile 99,Android,1
+Campeche,Chrome WebView 101,Android,2
+Campeche,Chrome WebView 102,Android,1
+Campeche,Chrome WebView 97,Android,1
+Campeche,Facebook 306,Android,1
+Campeche,Facebook 362,Android,1
+Campeche,Facebook 367,Android,1
+Campeche,Facebook 369,Android,1
+Campeche,Firefox 101,Windows,3
+Campeche,GSA 160,Apple iPhone,1
+Campeche,Mobile Safari 14,Apple iPhone,1
+Campeche,Mobile Safari 15,Apple iPhone,1
+Campeche,Samsung Browser 14,Android,1
+Campeche,Samsung Browser 17,Android,4
+Casablanca,Chrome Mobile 100,Android,1
+Casablanca,Mobile Safari 15,Apple iPhone,1
+Castille and León,Chrome Mobile 102,Apple iPhone,1
+Central District,Chrome 102,Mac,1
+Chiapas,Chrome 101,Windows,2
+Chiapas,Chrome 102,Android,1
+Chiapas,Chrome 102,Mac,1
+Chiapas,Chrome 102,Windows,60
+Chiapas,Chrome 92,Android,5
+Chiapas,Chrome 97,Linux,1
+Chiapas,Chrome 98,Android,1
+Chiapas,Chrome Mobile 100,Android,6
+Chiapas,Chrome Mobile 101,Android,28
+Chiapas,Chrome Mobile 102,Android,304
+Chiapas,Chrome Mobile 102,Apple iPhone,6
+Chiapas,Chrome Mobile 38,Android,4
+Chiapas,Chrome Mobile 55,Android,1
+Chiapas,Chrome Mobile 70,Android,1
+Chiapas,Chrome Mobile 72,Android,1
+Chiapas,Chrome Mobile 76,Apple iPad,1
+Chiapas,Chrome Mobile 79,Android,2
+Chiapas,Chrome Mobile 81,Android,1
+Chiapas,Chrome Mobile 83,Android,1
+Chiapas,Chrome Mobile 84,Android,1
+Chiapas,Chrome Mobile 87,Android,1
+Chiapas,Chrome Mobile 88,Android,1
+Chiapas,Chrome Mobile 90,Android,1
+Chiapas,Chrome Mobile 91,Android,2
+Chiapas,Chrome Mobile 92,Android,2
+Chiapas,Chrome Mobile 92,Apple iPhone,1
+Chiapas,Chrome Mobile 93,Android,2
+Chiapas,Chrome Mobile 94,Android,3
+Chiapas,Chrome Mobile 95,Android,5
+Chiapas,Chrome Mobile 96,Android,1
+Chiapas,Chrome Mobile 97,Android,1
+Chiapas,Chrome Mobile 98,Android,5
+Chiapas,Chrome Mobile 99,Android,1
+Chiapas,Chrome WebView 101,Android,2
+Chiapas,Chrome WebView 102,Android,4
+Chiapas,Chrome WebView 87,Android,1
+Chiapas,Edge 101,Android,1
+Chiapas,Edge 102,Windows,2
+Chiapas,Facebook 360,Android,1
+Chiapas,Facebook 362,Android,2
+Chiapas,Facebook 369,Android,3
+Chiapas,Firefox 100,Windows,1
+Chiapas,Firefox 101,Linux,2
+Chiapas,Firefox 101,Windows,2
+Chiapas,GSA 164,Apple iPad,1
+Chiapas,GSA 213,Apple iPhone,5
+Chiapas,GSA 214,Apple iPhone,2
+Chiapas,Mobile Safari 12,Apple iPhone,3
+Chiapas,Mobile Safari 14,Apple iPhone,3
+Chiapas,Mobile Safari 15,Apple iPhone,1
+Chiapas,Opera 87,Windows,2
+Chiapas,Safari 14,Mac,1
+Chiapas,Safari 15,Mac,1
+Chiapas,Samsung Browser 11,Android,1
+Chiapas,Samsung Browser 16,Android,1
+Chiapas,Samsung Browser 17,Android,4
+Chiapas,UCBrowser 11,Android,1
+Chihuahua,Chrome 100,Windows,1
+Chihuahua,Chrome 101,Chromium OS,1
+Chihuahua,Chrome 101,Windows,5
+Chihuahua,Chrome 102,Android,1
+Chihuahua,Chrome 102,Linux,1
+Chihuahua,Chrome 102,Mac,1
+Chihuahua,Chrome 102,Windows,79
+Chihuahua,Chrome 76,Chromium OS,1
+Chihuahua,Chrome 92,Android,10
+Chihuahua,Chrome 92,Windows,1
+Chihuahua,Chrome 93,Chromium OS,1
+Chihuahua,Chrome 96,Linux,1
+Chihuahua,Chrome 96,Mac,1
+Chihuahua,Chrome Mobile 100,Android,8
+Chihuahua,Chrome Mobile 101,Android,48
+Chihuahua,Chrome Mobile 101,Apple iPhone,1
+Chihuahua,Chrome Mobile 102,Android,506
+Chihuahua,Chrome Mobile 102,Apple iPad,1
+Chihuahua,Chrome Mobile 102,Apple iPhone,11
+Chihuahua,Chrome Mobile 38,Android,1
+Chihuahua,Chrome Mobile 39,Android,1
+Chihuahua,Chrome Mobile 62,Android,1
+Chihuahua,Chrome Mobile 68,Android,1
+Chihuahua,Chrome Mobile 77,Android,1
+Chihuahua,Chrome Mobile 78,Android,1
+Chihuahua,Chrome Mobile 79,Android,1
+Chihuahua,Chrome Mobile 80,Android,1
+Chihuahua,Chrome Mobile 81,Android,4
+Chihuahua,Chrome Mobile 83,Android,3
+Chihuahua,Chrome Mobile 85,Android,4
+Chihuahua,Chrome Mobile 87,Android,1
+Chihuahua,Chrome Mobile 88,Android,1
+Chihuahua,Chrome Mobile 90,Android,2
+Chihuahua,Chrome Mobile 91,Android,4
+Chihuahua,Chrome Mobile 92,Android,2
+Chihuahua,Chrome Mobile 94,Android,3
+Chihuahua,Chrome Mobile 95,Android,6
+Chihuahua,Chrome Mobile 95,Apple iPad,1
+Chihuahua,Chrome Mobile 96,Android,5
+Chihuahua,Chrome Mobile 97,Android,2
+Chihuahua,Chrome Mobile 98,Android,4
+Chihuahua,Chrome Mobile 99,Android,2
+Chihuahua,Chrome WebView 101,Android,5
+Chihuahua,Chrome WebView 102,Android,4
+Chihuahua,Edge 100,Windows,1
+Chihuahua,Edge 101,Android,1
+Chihuahua,Edge 102,Windows,3
+Chihuahua,Edge 81,Windows,3
+Chihuahua,Facebook 301,Android,1
+Chihuahua,Facebook 362,Android,2
+Chihuahua,Facebook 366,Android,1
+Chihuahua,Facebook 368,Android,1
+Chihuahua,Facebook 369,Android,7
+Chihuahua,Firefox 100,Windows,1
+Chihuahua,Firefox 101,Apple iPhone,1
+Chihuahua,Firefox 101,Windows,2
+Chihuahua,GSA 197,Apple iPhone,1
+Chihuahua,GSA 209,Apple iPhone,1
+Chihuahua,GSA 213,Apple iPhone,15
+Chihuahua,GSA 215,Apple iPhone,5
+Chihuahua,MIUI Browser 12,Android,1
+Chihuahua,Mobile Safari 12,Apple iPhone,3
+Chihuahua,Mobile Safari 14,Apple iPhone,8
+Chihuahua,Mobile Safari 15,Apple iPhone,247
+Chihuahua,Opera 35,Windows,5
+Chihuahua,Opera 63,Android,1
+Chihuahua,Safari 15,Mac,3
+Chihuahua,Samsung Browser 11,Android,1
+Chihuahua,Samsung Browser 13,Android,1
+Chihuahua,Samsung Browser 14,Android,2
+Chihuahua,Samsung Browser 15,Android,1
+Chihuahua,Samsung Browser 16,Android,2
+Chihuahua,Samsung Browser 17,Android,9
+Chihuahua,Samsung Browser 5,Android,1
+Chihuahua,Samsung Browser 9,Android,1
+Chon Buri,Mobile Safari 15,Apple iPhone,1
+Chrudim District,Mobile Safari 15,Apple iPhone,1
+Cluj,Samsung Browser 16,Android,1
+Coahuila,Chrome 100,Chromium OS,1
+Coahuila,Chrome 101,Windows,6
+Coahuila,Chrome 102,Android,2
+Coahuila,Chrome 102,Chromium OS,1
+Coahuila,Chrome 102,Mac,2
+Coahuila,Chrome 102,Windows,102
+Coahuila,Chrome 65,Linux,1
+Coahuila,Chrome 81,Android,2
+Coahuila,Chrome 92,Android,12
+Coahuila,Chrome Mobile 100,Android,9
+Coahuila,Chrome Mobile 101,Android,39
+Coahuila,Chrome Mobile 101,Apple iPad,1
+Coahuila,Chrome Mobile 101,Apple iPhone,1
+Coahuila,Chrome Mobile 102,Android,413
+Coahuila,Chrome Mobile 102,Apple iPhone,8
+Coahuila,Chrome Mobile 38,Android,2
+Coahuila,Chrome Mobile 61,Android,1
+Coahuila,Chrome Mobile 70,Android,1
+Coahuila,Chrome Mobile 80,Android,3
+Coahuila,Chrome Mobile 81,Android,1
+Coahuila,Chrome Mobile 83,Android,2
+Coahuila,Chrome Mobile 84,Android,1
+Coahuila,Chrome Mobile 86,Android,1
+Coahuila,Chrome Mobile 87,Android,4
+Coahuila,Chrome Mobile 88,Android,1
+Coahuila,Chrome Mobile 89,Android,3
+Coahuila,Chrome Mobile 91,Android,3
+Coahuila,Chrome Mobile 93,Android,1
+Coahuila,Chrome Mobile 94,Android,2
+Coahuila,Chrome Mobile 95,Android,1
+Coahuila,Chrome Mobile 96,Android,4
+Coahuila,Chrome Mobile 97,Android,3
+Coahuila,Chrome Mobile 98,Android,2
+Coahuila,Chrome Mobile 99,Android,1
+Coahuila,Chrome WebView 101,Android,3
+Coahuila,Chrome WebView 102,Android,6
+Coahuila,Chrome WebView 78,Android,1
+Coahuila,Chrome WebView 88,Android,2
+Coahuila,Chrome WebView 98,Android,1
+Coahuila,Edge 102,Windows,1
+Coahuila,Facebook 332,Android,1
+Coahuila,Facebook 362,Android,2
+Coahuila,Facebook 368,Android,1
+Coahuila,Facebook 369,Android,4
+Coahuila,Firefox 101,Mac,1
+Coahuila,Firefox 101,Windows,1
+Coahuila,GSA 190,Apple iPhone,1
+Coahuila,GSA 202,Apple iPhone,1
+Coahuila,GSA 208,Apple iPhone,1
+Coahuila,GSA 213,Apple iPhone,16
+Coahuila,GSA 214,Apple iPhone,1
+Coahuila,GSA 215,Apple iPhone,1
+Coahuila,Mobile Safari 12,Apple iPhone,3
+Coahuila,Mobile Safari 13,Apple iPhone,1
+Coahuila,Mobile Safari 14,Apple iPhone,9
+Coahuila,Mobile Safari 15,Apple iPhone,1
+Coahuila,Safari 13,Mac,1
+Coahuila,Samsung Browser 10,Android,1
+Coahuila,Samsung Browser 11,Android,3
+Coahuila,Samsung Browser 12,Android,1
+Coahuila,Samsung Browser 16,Android,1
+Coahuila,Samsung Browser 17,Android,12
+Coahuila,Samsung Browser 2,Tizen,1
+Coahuila,Samsung Browser 4,Android,1
+Coahuila,Samsung Browser 7,Android,1
+Coahuila,Samsung Browser 9,Android,1
+Coahuila,Yandex 21,Android,1
+Colima,Chrome 101,Windows,1
+Colima,Chrome 102,Windows,18
+Colima,Chrome 92,Android,4
+Colima,Chrome Mobile 100,Android,1
+Colima,Chrome Mobile 101,Android,6
+Colima,Chrome Mobile 102,Android,88
+Colima,Chrome Mobile 71,Android,1
+Colima,Chrome Mobile 91,Android,1
+Colima,Chrome Mobile 92,Android,3
+Colima,Chrome Mobile 95,Android,1
+Colima,Chrome WebView 101,Android,1
+Colima,Chrome WebView 102,Android,2
+Colima,Chrome WebView 44,Android,1
+Colima,Edge 101,Windows,1
+Colima,Facebook 369,Android,1
+Colima,Firefox 101,Windows,1
+Colima,GSA 184,Apple iPad,1
+Colima,GSA 213,Apple iPhone,2
+Colima,GSA 215,Apple iPhone,1
+Colima,Mobile Safari 12,Apple iPhone,2
+Colima,Mobile Safari 14,Apple iPhone,2
+Colima,Opera 87,Windows,1
+Colima,Samsung Browser 17,Android,1
+Colima,UCBrowser 12,Android,1
+Colorado,Mobile Safari 15,Apple iPhone,1
+Cordoba,Chrome 102,Mac,1
+Corrientes,Chrome Mobile 102,Android,1
+Cuenca,MIUI Browser 13,Android,1
+Departamento de Chiquimula,Chrome 102,Windows,1
+Departamento de Cortes,Chrome Mobile 101,Android,1
+Departamento de Cortes,Chrome Mobile 102,Android,2
+Departamento de Francisco Morazan,Chrome Mobile 102,Android,1
+Departamento de Guatemala,Chrome 102,Windows,1
+Departamento de Guatemala,Chrome Mobile 101,Android,2
+Departamento de Guatemala,Chrome Mobile 102,Android,2
+Departamento de Guatemala,Chrome Mobile 88,Android,1
+Departamento de Guatemala,GSA 213,Apple iPhone,1
+Departamento de Guatemala,Mobile Safari 14,Apple iPhone,1
+Departamento de Guatemala,Mobile Safari 15,Apple iPhone,1
+Departamento de Managua,Chrome Mobile 102,Android,2
+Departamento de Managua,Chrome Mobile 96,Android,1
+Departamento de Montevideo,Mobile Safari 15,Apple iPhone,1
+Departamento de San Salvador,Chrome 102,Windows,1
+Departamento de San Salvador,Chrome Mobile 102,Android,2
+Departamento de Santa Cruz,Chrome Mobile 75,Android,1
+Departamento de Santander,Chrome 102,Windows,1
+Departamento del Alto Parana,Samsung Browser 11,Android,1
+Departamento del Valle del Cauca,Chrome 100,Windows,1
+District of Columbia,Chrome 101,Windows,1
+District of Columbia,Chrome Mobile 102,Android,1
+Dnipropetrovsk Oblast,Chrome 102,Mac,1
+Durango,Chrome 102,Linux,1
+Durango,Chrome 102,Windows,23
+Durango,Chrome 92,Android,1
+Durango,Chrome 93,Chromium OS,1
+Durango,Chrome 93,Windows,1
+Durango,Chrome 99,Mac,1
+Durango,Chrome Mobile 100,Android,4
+Durango,Chrome Mobile 101,Android,7
+Durango,Chrome Mobile 102,Android,143
+Durango,Chrome Mobile 102,Apple iPhone,7
+Durango,Chrome Mobile 86,Android,1
+Durango,Chrome Mobile 87,Android,5
+Durango,Chrome Mobile 91,Android,1
+Durango,Chrome Mobile 93,Android,1
+Durango,Chrome Mobile 95,Android,1
+Durango,Chrome Mobile 97,Android,1
+Durango,Chrome Mobile 98,Android,1
+Durango,Chrome Mobile 99,Android,2
+Durango,Chrome WebView 101,Android,2
+Durango,Facebook 362,Android,2
+Durango,Facebook 369,Android,2
+Durango,Firefox 101,Android,1
+Durango,Firefox 101,Windows,1
+Durango,Firefox 83,Windows,1
+Durango,Firefox 88,Mac,1
+Durango,Firefox 91,Windows,1
+Durango,GSA 162,Apple iPhone,1
+Durango,GSA 213,Apple iPhone,5
+Durango,Mobile Safari 12,Apple iPhone,1
+Durango,Mobile Safari 13,Apple iPhone,1
+Durango,Mobile Safari 14,Apple iPhone,1
+Durango,Samsung Browser 17,Android,5
+Durango,UCBrowser 12,Android,1
+Florida,Chrome 101,Windows,1
+Florida,Chrome 86,Windows,1
+Florida,Chrome Mobile 100,Android,1
+Florida,Chrome Mobile 101,Android,1
+Florida,Chrome Mobile 102,Android,1
+Florida,Mobile Safari 15,Apple iPhone,1
+Georgia,Chrome 102,Windows,1
+Gorod Bishkek,Chrome 100,Windows,1
+Guanajuato,Chrome 100,Android,1
+Guanajuato,Chrome 101,Windows,5
+Guanajuato,Chrome 102,Android,2
+Guanajuato,Chrome 102,Windows,76
+Guanajuato,Chrome 70,Android,1
+Guanajuato,Chrome 77,Chromium OS,1
+Guanajuato,Chrome 78,Windows,1
+Guanajuato,Chrome 80,Windows,1
+Guanajuato,Chrome 90,Windows,1
+Guanajuato,Chrome 92,Android,5
+Guanajuato,Chrome Mobile 100,Android,8
+Guanajuato,Chrome Mobile 101,Android,55
+Guanajuato,Chrome Mobile 102,Android,508
+Guanajuato,Chrome Mobile 102,Apple iPhone,8
+Guanajuato,Chrome Mobile 103,Android,1
+Guanajuato,Chrome Mobile 38,Android,1
+Guanajuato,Chrome Mobile 39,Android,1
+Guanajuato,Chrome Mobile 53,Android,1
+Guanajuato,Chrome Mobile 56,Android,1
+Guanajuato,Chrome Mobile 64,Android,1
+Guanajuato,Chrome Mobile 70,Android,1
+Guanajuato,Chrome Mobile 79,Android,1
+Guanajuato,Chrome Mobile 81,Android,1
+Guanajuato,Chrome Mobile 85,Android,2
+Guanajuato,Chrome Mobile 86,Android,2
+Guanajuato,Chrome Mobile 87,Android,7
+Guanajuato,Chrome Mobile 88,Android,1
+Guanajuato,Chrome Mobile 89,Android,2
+Guanajuato,Chrome Mobile 90,Android,1
+Guanajuato,Chrome Mobile 91,Android,2
+Guanajuato,Chrome Mobile 92,Android,1
+Guanajuato,Chrome Mobile 92,Apple iPhone,1
+Guanajuato,Chrome Mobile 93,Android,1
+Guanajuato,Chrome Mobile 94,Android,3
+Guanajuato,Chrome Mobile 95,Android,4
+Guanajuato,Chrome Mobile 96,Android,7
+Guanajuato,Chrome Mobile 97,Android,4
+Guanajuato,Chrome Mobile 98,Android,5
+Guanajuato,Chrome Mobile 99,Android,7
+Guanajuato,Chrome WebView 102,Android,4
+Guanajuato,Chrome WebView 55,Android,1
+Guanajuato,Chrome WebView 95,Android,1
+Guanajuato,Edge 102,Windows,5
+Guanajuato,Facebook 303,Android,1
+Guanajuato,Facebook 362,Android,1
+Guanajuato,Facebook 366,Android,1
+Guanajuato,Facebook 369,Android,2
+Guanajuato,Firefox 101,Windows,2
+Guanajuato,GSA 213,Apple iPhone,8
+Guanajuato,GSA 214,Apple iPhone,1
+Guanajuato,GSA 215,Apple iPhone,1
+Guanajuato,MIUI Browser 13,Linux,1
+Guanajuato,Mobile Safari 12,Apple iPhone,1
+Guanajuato,Mobile Safari 13,Apple iPhone,1
+Guanajuato,Mobile Safari 14,Apple iPhone,4
+Guanajuato,Mobile Safari 15,Apple iPhone,7
+Guanajuato,Samsung Browser 11,Android,1
+Guanajuato,Samsung Browser 13,Android,1
+Guanajuato,Samsung Browser 14,Android,1
+Guanajuato,Samsung Browser 16,Android,3
+Guanajuato,Samsung Browser 17,Android,7
+Guerrero,Chrome 101,Windows,2
+Guerrero,Chrome 102,Linux,1
+Guerrero,Chrome 102,Mac,1
+Guerrero,Chrome 102,Windows,41
+Guerrero,Chrome 81,Android,1
+Guerrero,Chrome 92,Android,4
+Guerrero,Chrome 92,Windows,1
+Guerrero,Chrome 96,Windows,1
+Guerrero,Chrome 98,Windows,1
+Guerrero,Chrome Mobile 100,Android,1
+Guerrero,Chrome Mobile 101,Android,20
+Guerrero,Chrome Mobile 102,Android,220
+Guerrero,Chrome Mobile 102,Apple iPhone,3
+Guerrero,Chrome Mobile 68,Android,1
+Guerrero,Chrome Mobile 70,Android,1
+Guerrero,Chrome Mobile 81,Android,1
+Guerrero,Chrome Mobile 83,Android,1
+Guerrero,Chrome Mobile 85,Android,1
+Guerrero,Chrome Mobile 88,Android,2
+Guerrero,Chrome Mobile 91,Android,1
+Guerrero,Chrome Mobile 92,Android,2
+Guerrero,Chrome Mobile 93,Android,2
+Guerrero,Chrome Mobile 96,Android,3
+Guerrero,Chrome Mobile 98,Android,1
+Guerrero,Chrome WebView 101,Android,1
+Guerrero,Chrome WebView 102,Android,1
+Guerrero,Chrome WebView 88,Android,1
+Guerrero,Edge 102,Windows,1
+Guerrero,Facebook 286,Android,1
+Guerrero,Facebook 362,Android,1
+Guerrero,Facebook 369,Android,2
+Guerrero,Firefox 101,Windows,3
+Guerrero,GSA 213,Apple iPhone,3
+Guerrero,MIUI Browser 13,Android,1
+Guerrero,Mobile Safari 14,Apple iPhone,2
+Guerrero,Opera 65,Windows,1
+Guerrero,Samsung Browser 14,Android,1
+Guerrero,Samsung Browser 16,Android,1
+Guerrero,Samsung Browser 17,Android,4
+Hamilton city,Chrome Mobile 75,Android,1
+Hidalgo,Chrome 100,Windows,3
+Hidalgo,Chrome 101,Chromium OS,1
+Hidalgo,Chrome 101,Windows,3
+Hidalgo,Chrome 102,Android,2
+Hidalgo,Chrome 102,Windows,45
+Hidalgo,Chrome 92,Android,2
+Hidalgo,Chrome 97,Windows,1
+Hidalgo,Chrome Mobile 100,Android,5
+Hidalgo,Chrome Mobile 101,Android,15
+Hidalgo,Chrome Mobile 102,Android,195
+Hidalgo,Chrome Mobile 102,Apple iPhone,4
+Hidalgo,Chrome Mobile 38,Android,1
+Hidalgo,Chrome Mobile 50,Android,1
+Hidalgo,Chrome Mobile 55,Android,1
+Hidalgo,Chrome Mobile 79,Android,2
+Hidalgo,Chrome Mobile 81,Android,2
+Hidalgo,Chrome Mobile 83,Android,1
+Hidalgo,Chrome Mobile 86,Android,1
+Hidalgo,Chrome Mobile 88,Android,1
+Hidalgo,Chrome Mobile 90,Android,1
+Hidalgo,Chrome Mobile 91,Android,1
+Hidalgo,Chrome Mobile 92,Android,2
+Hidalgo,Chrome Mobile 95,Android,2
+Hidalgo,Chrome Mobile 96,Android,1
+Hidalgo,Chrome Mobile 97,Android,1
+Hidalgo,Chrome Mobile 98,Android,1
+Hidalgo,Chrome Mobile 99,Android,4
+Hidalgo,Chrome WebView 101,Android,2
+Hidalgo,Chrome WebView 102,Android,2
+Hidalgo,Facebook 306,Android,1
+Hidalgo,Facebook 362,Android,2
+Hidalgo,Facebook 369,Android,1
+Hidalgo,Firefox 101,Windows,3
+Hidalgo,GSA 210,Apple iPhone,1
+Hidalgo,GSA 213,Apple iPhone,1
+Hidalgo,GSA 215,Apple iPhone,1
+Hidalgo,MIUI Browser 13,Android,1
+Hidalgo,Mobile Safari 14,Apple iPhone,2
+Hidalgo,Mobile Safari 15,Apple iPhone,1
+Hidalgo,Opera 87,Windows,1
+Hidalgo,Safari 13,Mac,1
+Hidalgo,Samsung Browser 11,Android,1
+Hidalgo,Samsung Browser 12,Android,1
+Hidalgo,Samsung Browser 17,Android,5
+Hlavni mesto Praha,Chrome 100,Windows,1
+Hlavni mesto Praha,Chrome Mobile 100,Android,2
+Hlavni mesto Praha,Samsung Browser 16,Android,1
+Idaho,Chrome Headless 102,Linux,1
+Illinois,Chrome 102,Mac,1
+Illinois,Chrome 68,Windows,1
+Illinois,Chrome 98,Linux,1
+Illinois,Chrome Mobile 101,Android,2
+Illinois,Chrome Mobile 102,Android,3
+Illinois,Chrome Mobile 102,Apple iPhone,1
+Illinois,Mobile Safari 15,Apple iPhone,2
+Indiana,Mobile Safari 15,Apple iPhone,1
+Iowa,Chrome 79,Windows,15
+Iowa,Chrome 80,Windows,11
+Iowa,Chrome 96,Windows,5
+Iowa,Chrome 97,Windows,7
+Iowa,Chrome 98,Windows,9
+Iowa,Chrome Mobile 51,Android,1
+Jakarta,Chrome Mobile 102,Android,1
+Jalisco,Chrome 100,Android,1
+Jalisco,Chrome 100,Windows,3
+Jalisco,Chrome 101,Linux,2
+Jalisco,Chrome 101,Windows,11
+Jalisco,Chrome 102,Android,3
+Jalisco,Chrome 102,Linux,1
+Jalisco,Chrome 102,Mac,7
+Jalisco,Chrome 102,Windows,169
+Jalisco,Chrome 78,Android,1
+Jalisco,Chrome 83,Windows,1
+Jalisco,Chrome 88,Windows,2
+Jalisco,Chrome 92,Android,21
+Jalisco,Chrome 92,Windows,1
+Jalisco,Chrome 93,Mac,2
+Jalisco,Chrome 93,Windows,1
+Jalisco,Chrome 95,Windows,1
+Jalisco,Chrome 99,Windows,1
+Jalisco,Chrome Mobile 100,Android,35
+Jalisco,Chrome Mobile 101,Android,203
+Jalisco,Chrome Mobile 101,Apple iPhone,1
+Jalisco,Chrome Mobile 102,Android,1630
+Jalisco,Chrome Mobile 102,Apple iPhone,45
+Jalisco,Chrome Mobile 103,Android,1
+Jalisco,Chrome Mobile 38,Android,4
+Jalisco,Chrome Mobile 43,Android,1
+Jalisco,Chrome Mobile 49,Android,1
+Jalisco,Chrome Mobile 50,Android,2
+Jalisco,Chrome Mobile 55,Android,6
+Jalisco,Chrome Mobile 66,Android,1
+Jalisco,Chrome Mobile 69,Android,1
+Jalisco,Chrome Mobile 70,Android,1
+Jalisco,Chrome Mobile 74,Android,2
+Jalisco,Chrome Mobile 79,Android,6
+Jalisco,Chrome Mobile 80,Android,2
+Jalisco,Chrome Mobile 81,Android,7
+Jalisco,Chrome Mobile 83,Android,10
+Jalisco,Chrome Mobile 85,Android,5
+Jalisco,Chrome Mobile 87,Android,20
+Jalisco,Chrome Mobile 88,Android,9
+Jalisco,Chrome Mobile 89,Android,7
+Jalisco,Chrome Mobile 90,Android,4
+Jalisco,Chrome Mobile 91,Android,9
+Jalisco,Chrome Mobile 92,Android,10
+Jalisco,Chrome Mobile 93,Android,4
+Jalisco,Chrome Mobile 94,Android,12
+Jalisco,Chrome Mobile 94,Apple iPhone,1
+Jalisco,Chrome Mobile 95,Android,17
+Jalisco,Chrome Mobile 95,Apple iPhone,1
+Jalisco,Chrome Mobile 96,Android,21
+Jalisco,Chrome Mobile 97,Android,13
+Jalisco,Chrome Mobile 98,Android,14
+Jalisco,Chrome Mobile 99,Android,19
+Jalisco,Chrome Mobile 99,Apple iPhone,1
+Jalisco,Chrome WebView 101,Android,10
+Jalisco,Chrome WebView 102,Android,12
+Jalisco,Chrome WebView 62,Android,1
+Jalisco,Chrome WebView 69,Android,1
+Jalisco,Chrome WebView 78,Android,2
+Jalisco,Chrome WebView 96,Android,1
+Jalisco,Edge 102,Windows,13
+Jalisco,Facebook 298,Android,1
+Jalisco,Facebook 305,Android,1
+Jalisco,Facebook 357,Android,1
+Jalisco,Facebook 361,Android,1
+Jalisco,Facebook 362,Android,3
+Jalisco,Facebook 369,Android,13
+Jalisco,Firefox 101,Android,1
+Jalisco,Firefox 101,Windows,3
+Jalisco,Firefox 87,Windows,1
+Jalisco,Firefox 91,Windows,1
+Jalisco,Firefox 99,Windows,1
+Jalisco,GSA 163,Apple iPhone,1
+Jalisco,GSA 189,Apple iPhone,1
+Jalisco,GSA 201,Apple iPhone,1
+Jalisco,GSA 206,Apple iPhone,1
+Jalisco,GSA 208,Apple iPhone,1
+Jalisco,GSA 210,Apple iPhone,1
+Jalisco,GSA 211,Apple iPhone,1
+Jalisco,GSA 213,Apple iPad,1
+Jalisco,GSA 213,Apple iPhone,50
+Jalisco,GSA 215,Apple iPhone,4
+Jalisco,MIUI Browser 13,Android,6
+Jalisco,Mobile Safari 12,Apple iPad,1
+Jalisco,Mobile Safari 12,Apple iPhone,8
+Jalisco,Mobile Safari 13,Apple iPhone,1
+Jalisco,Mobile Safari 14,Apple iPad,1
+Jalisco,Mobile Safari 14,Apple iPhone,24
+Jalisco,Mobile Safari 15,Apple iPhone,42
+Jalisco,Mobile Safari 9,Apple iPhone,1
+Jalisco,Opera 68,Android,1
+Jalisco,Opera 69,Android,3
+Jalisco,Opera 84,Windows,1
+Jalisco,Opera 87,Windows,1
+Jalisco,Safari 12,Mac,1
+Jalisco,Safari 13,Mac,2
+Jalisco,Safari 15,Mac,2
+Jalisco,Samsung Browser 13,Android,2
+Jalisco,Samsung Browser 14,Android,2
+Jalisco,Samsung Browser 16,Android,7
+Jalisco,Samsung Browser 17,Android,43
+Jalisco,Silk 100,Android,1
+Jalisco,WebKit 605,Apple iPhone,2
+Jalisco,WebKit 605,Mac,1
+Kamnik,Mobile Safari 15,Apple iPhone,1
+Kamnik,Samsung Browser 16,Android,1
+Karnataka,Chrome 102,Mac,1
+Karnataka,Chrome 102,Windows,1
+Kentucky,Chrome Mobile 102,Android,1
+La Libertad,Chrome Mobile 102,Android,1
+Lima,Chrome 102,Mac,1
+Lower Saxony,Mobile Safari 15,Apple iPhone,1
+Madrid,Chrome Mobile 101,Android,1
+Madrid,Mobile Safari 15,Apple iPhone,1
+Madrid,Safari 15,Mac,1
+Maharashtra,Chrome 102,Chromium OS,1
+Maharashtra,Chrome 102,Windows,2
+Maharashtra,Chrome 79,Windows,1
+Maharashtra,Mobile Safari 15,Apple iPhone,1
+Malaga,Chrome Mobile 102,Android,1
+Maryland,GSA 213,Apple iPhone,1
+Mesto Brno,Chrome 100,Windows,1
+Mexico City,Chrome 100,Mac,1
+Mexico City,Chrome 100,Windows,6
+Mexico City,Chrome 101,Android,1
+Mexico City,Chrome 101,Chromium OS,2
+Mexico City,Chrome 101,Linux,1
+Mexico City,Chrome 101,Mac,5
+Mexico City,Chrome 101,Windows,24
+Mexico City,Chrome 102,Android,10
+Mexico City,Chrome 102,Chromium OS,1
+Mexico City,Chrome 102,Linux,5
+Mexico City,Chrome 102,Mac,27
+Mexico City,Chrome 102,Windows,453
+Mexico City,Chrome 11,Linux,1
+Mexico City,Chrome 37,Linux,1
+Mexico City,Chrome 76,Chromium OS,1
+Mexico City,Chrome 77,Android,1
+Mexico City,Chrome 81,Android,3
+Mexico City,Chrome 84,Windows,1
+Mexico City,Chrome 88,Mac,1
+Mexico City,Chrome 88,Windows,2
+Mexico City,Chrome 89,Mac,1
+Mexico City,Chrome 89,Windows,2
+Mexico City,Chrome 91,Android,1
+Mexico City,Chrome 91,Mac,1
+Mexico City,Chrome 91,Windows,2
+Mexico City,Chrome 92,Android,73
+Mexico City,Chrome 93,Windows,1
+Mexico City,Chrome 94,Windows,3
+Mexico City,Chrome 95,Android,1
+Mexico City,Chrome 96,Android,1
+Mexico City,Chrome 96,Linux,1
+Mexico City,Chrome 97,Mac,1
+Mexico City,Chrome 97,Windows,2
+Mexico City,Chrome 98,Windows,2
+Mexico City,Chrome 99,Windows,4
+Mexico City,Chrome Mobile 100,Android,137
+Mexico City,Chrome Mobile 100,Apple iPhone,2
+Mexico City,Chrome Mobile 101,Android,532
+Mexico City,Chrome Mobile 101,Apple iPhone,3
+Mexico City,Chrome Mobile 102,Android,4011
+Mexico City,Chrome Mobile 102,Apple iPad,2
+Mexico City,Chrome Mobile 102,Apple iPhone,84
+Mexico City,Chrome Mobile 37,Android,1
+Mexico City,Chrome Mobile 38,Android,25
+Mexico City,Chrome Mobile 39,Android,2
+Mexico City,Chrome Mobile 42,Android,1
+Mexico City,Chrome Mobile 43,Android,3
+Mexico City,Chrome Mobile 46,Android,1
+Mexico City,Chrome Mobile 50,Android,2
+Mexico City,Chrome Mobile 54,Android,1
+Mexico City,Chrome Mobile 55,Android,9
+Mexico City,Chrome Mobile 56,Android,3
+Mexico City,Chrome Mobile 57,Android,1
+Mexico City,Chrome Mobile 64,Android,5
+Mexico City,Chrome Mobile 68,Android,4
+Mexico City,Chrome Mobile 69,Android,3
+Mexico City,Chrome Mobile 70,Android,9
+Mexico City,Chrome Mobile 72,Android,1
+Mexico City,Chrome Mobile 74,Android,8
+Mexico City,Chrome Mobile 77,Android,4
+Mexico City,Chrome Mobile 78,Android,2
+Mexico City,Chrome Mobile 79,Android,14
+Mexico City,Chrome Mobile 80,Android,17
+Mexico City,Chrome Mobile 81,Android,23
+Mexico City,Chrome Mobile 83,Android,11
+Mexico City,Chrome Mobile 84,Android,6
+Mexico City,Chrome Mobile 85,Android,13
+Mexico City,Chrome Mobile 86,Android,7
+Mexico City,Chrome Mobile 87,Android,36
+Mexico City,Chrome Mobile 88,Android,17
+Mexico City,Chrome Mobile 89,Android,11
+Mexico City,Chrome Mobile 90,Android,29
+Mexico City,Chrome Mobile 91,Android,20
+Mexico City,Chrome Mobile 92,Android,26
+Mexico City,Chrome Mobile 92,Apple iPad,1
+Mexico City,Chrome Mobile 93,Android,11
+Mexico City,Chrome Mobile 94,Android,33
+Mexico City,Chrome Mobile 95,Android,30
+Mexico City,Chrome Mobile 96,Android,52
+Mexico City,Chrome Mobile 96,Apple iPhone,1
+Mexico City,Chrome Mobile 97,Android,32
+Mexico City,Chrome Mobile 98,Android,61
+Mexico City,Chrome Mobile 98,Apple iPhone,2
+Mexico City,Chrome Mobile 99,Android,62
+Mexico City,Chrome WebView 100,Android,1
+Mexico City,Chrome WebView 101,Android,29
+Mexico City,Chrome WebView 102,Android,28
+Mexico City,Chrome WebView 55,Android,1
+Mexico City,Chrome WebView 70,Android,1
+Mexico City,Chrome WebView 74,Android,5
+Mexico City,Chrome WebView 78,Android,1
+Mexico City,Chrome WebView 83,Android,1
+Mexico City,Chrome WebView 87,Android,1
+Mexico City,Chrome WebView 88,Android,5
+Mexico City,Chrome WebView 90,Android,1
+Mexico City,Chrome WebView 91,Android,1
+Mexico City,Chrome WebView 94,Android,2
+Mexico City,Chrome WebView 96,Android,2
+Mexico City,Chrome WebView 97,Android,2
+Mexico City,Chrome WebView 99,Android,1
+Mexico City,Edge 101,Apple iPhone,1
+Mexico City,Edge 101,Windows,4
+Mexico City,Edge 102,Mac,1
+Mexico City,Edge 102,Windows,32
+Mexico City,Edge 93,Windows,1
+Mexico City,Edge 98,Windows,1
+Mexico City,Facebook 288,Android,1
+Mexico City,Facebook 300,Android,1
+Mexico City,Facebook 302,Android,1
+Mexico City,Facebook 305,Android,2
+Mexico City,Facebook 306,Android,1
+Mexico City,Facebook 318,Android,1
+Mexico City,Facebook 345,Android,1
+Mexico City,Facebook 347,Android,1
+Mexico City,Facebook 357,Android,1
+Mexico City,Facebook 359,Android,1
+Mexico City,Facebook 360,Android,1
+Mexico City,Facebook 362,Android,8
+Mexico City,Facebook 365,Android,1
+Mexico City,Facebook 367,Android,3
+Mexico City,Facebook 368,Android,3
+Mexico City,Facebook 369,Android,17
+Mexico City,Firefox 100,Android,2
+Mexico City,Firefox 101,Android,2
+Mexico City,Firefox 101,Windows,10
+Mexico City,Firefox 48,KAIOS,1
+Mexico City,Firefox 52,Windows,1
+Mexico City,Firefox 89,Mac,1
+Mexico City,Firefox 98,Windows,1
+Mexico City,Firefox 99,Windows,1
+Mexico City,GSA 190,Apple iPhone,1
+Mexico City,GSA 198,Apple iPhone,1
+Mexico City,GSA 200,Apple iPhone,1
+Mexico City,GSA 205,Apple iPhone,2
+Mexico City,GSA 206,Apple iPhone,1
+Mexico City,GSA 208,Apple iPhone,1
+Mexico City,GSA 210,Apple iPhone,1
+Mexico City,GSA 211,Apple iPhone,3
+Mexico City,GSA 212,Apple iPhone,1
+Mexico City,GSA 213,Apple iPad,1
+Mexico City,GSA 213,Apple iPhone,70
+Mexico City,GSA 214,Apple iPhone,5
+Mexico City,GSA 215,Apple iPhone,5
+Mexico City,MIUI Browser 12,Android,2
+Mexico City,MIUI Browser 13,Android,15
+Mexico City,MIUI Browser 13,Linux,1
+Mexico City,Mobile Safari 12,Apple iPad,1
+Mexico City,Mobile Safari 12,Apple iPhone,19
+Mexico City,Mobile Safari 13,Apple iPhone,5
+Mexico City,Mobile Safari 14,Apple iPad,1
+Mexico City,Mobile Safari 14,Apple iPhone,39
+Mexico City,Mobile Safari 15,Apple iPad,1
+Mexico City,Mobile Safari 15,Apple iPhone,1337
+Mexico City,Mobile Safari 16,Apple iPhone,1
+Mexico City,Opera 12,Windows,4
+Mexico City,Opera 69,Android,4
+Mexico City,Opera 78,Windows,1
+Mexico City,Opera 86,Windows,6
+Mexico City,Opera 87,Mac,1
+Mexico City,Opera 87,Windows,5
+Mexico City,Opera Touch 3,Apple iPhone,1
+Mexico City,Safari,Apple iPhone,5
+Mexico City,Safari 11,Mac,1
+Mexico City,Safari 12,Mac,2
+Mexico City,Safari 13,Mac,1
+Mexico City,Safari 14,Mac,7
+Mexico City,Safari 15,Mac,41
+Mexico City,Samsung Browser 11,Android,4
+Mexico City,Samsung Browser 13,Android,1
+Mexico City,Samsung Browser 14,Android,2
+Mexico City,Samsung Browser 15,Android,1
+Mexico City,Samsung Browser 16,Android,14
+Mexico City,Samsung Browser 17,Android,90
+Mexico City,Samsung Browser 17,Linux,1
+Mexico City,Samsung Browser 3,Android,2
+Mexico City,Samsung Browser 4,Android,2
+Mexico City,Samsung Browser 9,Android,1
+Mexico City,UCBrowser 12,Android,1
+Mexico City,WebKit 605,Apple iPhone,4
+Mexico City,WebKit 605,Mac,1
+Michigan,Chrome Mobile 102,Android,1
+Michoacán,Chrome 101,Chromium OS,2
+Michoacán,Chrome 101,Windows,4
+Michoacán,Chrome 102,Android,3
+Michoacán,Chrome 102,Windows,63
+Michoacán,Chrome 78,Android,1
+Michoacán,Chrome 92,Android,5
+Michoacán,Chrome 98,Windows,1
+Michoacán,Chrome Mobile 100,Android,1
+Michoacán,Chrome Mobile 101,Android,23
+Michoacán,Chrome Mobile 101,Apple iPhone,1
+Michoacán,Chrome Mobile 102,Android,329
+Michoacán,Chrome Mobile 102,Apple iPhone,8
+Michoacán,Chrome Mobile 38,Android,1
+Michoacán,Chrome Mobile 50,Android,1
+Michoacán,Chrome Mobile 64,Android,1
+Michoacán,Chrome Mobile 69,Android,1
+Michoacán,Chrome Mobile 70,Android,1
+Michoacán,Chrome Mobile 79,Android,2
+Michoacán,Chrome Mobile 80,Android,2
+Michoacán,Chrome Mobile 83,Android,1
+Michoacán,Chrome Mobile 84,Android,1
+Michoacán,Chrome Mobile 85,Android,1
+Michoacán,Chrome Mobile 87,Android,3
+Michoacán,Chrome Mobile 88,Android,1
+Michoacán,Chrome Mobile 89,Android,1
+Michoacán,Chrome Mobile 91,Android,1
+Michoacán,Chrome Mobile 92,Android,1
+Michoacán,Chrome Mobile 94,Android,1
+Michoacán,Chrome Mobile 95,Android,2
+Michoacán,Chrome Mobile 96,Android,4
+Michoacán,Chrome Mobile 97,Android,2
+Michoacán,Chrome Mobile 98,Android,1
+Michoacán,Chrome Mobile 99,Android,3
+Michoacán,Chrome WebView 100,Android,1
+Michoacán,Chrome WebView 101,Android,4
+Michoacán,Chrome WebView 102,Android,3
+Michoacán,Chrome WebView 88,Android,1
+Michoacán,Edge 101,Windows,1
+Michoacán,Edge 102,Windows,5
+Michoacán,Facebook 362,Android,1
+Michoacán,Facebook 369,Android,4
+Michoacán,Firefox 101,Windows,2
+Michoacán,GSA 157,Apple iPhone,1
+Michoacán,GSA 160,Apple iPhone,1
+Michoacán,GSA 212,Apple iPhone,1
+Michoacán,GSA 213,Apple iPhone,8
+Michoacán,GSA 214,Apple iPhone,1
+Michoacán,Mobile Safari 12,Apple iPhone,1
+Michoacán,Mobile Safari 14,Apple iPhone,1
+Michoacán,Mobile Safari 15,Apple iPhone,2
+Michoacán,Opera 62,Android,1
+Michoacán,Opera 86,Windows,2
+Michoacán,Safari,Apple iPhone,1
+Michoacán,Safari 13,Mac,1
+Michoacán,Samsung Browser 11,Android,1
+Michoacán,Samsung Browser 17,Android,4
+Michoacán,WebKit 605,Apple iPhone,2
+Milan,Mobile Safari 15,Apple iPhone,1
+Minnesota,Mobile Safari 15,Apple iPhone,1
+Minnesota,Samsung Browser 17,Android,1
+Missouri,Chrome Mobile 102,Android,1
+Morelos,Chrome 100,Mac,1
+Morelos,Chrome 101,Android,1
+Morelos,Chrome 101,Windows,1
+Morelos,Chrome 102,Linux,2
+Morelos,Chrome 102,Mac,1
+Morelos,Chrome 102,Windows,40
+Morelos,Chrome 90,Windows,1
+Morelos,Chrome 92,Android,4
+Morelos,Chrome 92,Windows,1
+Morelos,Chrome 98,Windows,1
+Morelos,Chrome 99,Windows,1
+Morelos,Chrome Mobile 100,Android,4
+Morelos,Chrome Mobile 101,Android,14
+Morelos,Chrome Mobile 102,Android,231
+Morelos,Chrome Mobile 102,Apple iPhone,2
+Morelos,Chrome Mobile 37,Android,1
+Morelos,Chrome Mobile 55,Android,1
+Morelos,Chrome Mobile 66,Android,1
+Morelos,Chrome Mobile 70,Android,1
+Morelos,Chrome Mobile 74,Android,1
+Morelos,Chrome Mobile 75,Android,1
+Morelos,Chrome Mobile 81,Android,2
+Morelos,Chrome Mobile 83,Android,1
+Morelos,Chrome Mobile 85,Android,1
+Morelos,Chrome Mobile 87,Android,1
+Morelos,Chrome Mobile 91,Android,1
+Morelos,Chrome Mobile 92,Apple iPhone,1
+Morelos,Chrome Mobile 96,Android,2
+Morelos,Chrome Mobile 97,Android,1
+Morelos,Chrome Mobile 99,Android,2
+Morelos,Chrome WebView 101,Android,4
+Morelos,Chrome WebView 102,Android,2
+Morelos,Chrome WebView 93,Android,1
+Morelos,Edge 102,Windows,2
+Morelos,Facebook 362,Android,4
+Morelos,Facebook 369,Android,1
+Morelos,Firefox 101,Windows,1
+Morelos,GSA 212,Apple iPhone,1
+Morelos,GSA 213,Apple iPhone,2
+Morelos,GSA 214,Apple iPhone,1
+Morelos,MIUI Browser 13,Android,1
+Morelos,Mobile Safari 12,Apple iPhone,1
+Morelos,Mobile Safari 13,Apple iPhone,2
+Morelos,Mobile Safari 14,Apple iPhone,1
+Morelos,Safari 15,Mac,1
+Morelos,Samsung Browser 17,Android,4
+Morelos,WebKit 605,Apple iPhone,1
+Moscow,Firefox 56,Windows,1
+Moscow,Yandex 22,Windows,1
+Murcia,GSA 213,Apple iPhone,1
+Muscat,Chrome 100,Windows,1
+Muscat,Chrome Mobile 75,Android,1
+Muscat,Samsung Browser 16,Android,1
+México,Chrome 100,Android,1
+México,Chrome 100,Windows,7
+México,Chrome 101,Windows,16
+México,Chrome 102,Android,5
+México,Chrome 102,Chromium OS,1
+México,Chrome 102,Linux,1
+México,Chrome 102,Mac,10
+México,Chrome 102,Windows,245
+México,Chrome 69,Chromium OS,1
+México,Chrome 69,Windows,1
+México,Chrome 91,Windows,1
+México,Chrome 92,Android,27
+México,Chrome 93,Windows,1
+México,Chrome 94,Windows,1
+México,Chrome 95,Android,1
+México,Chrome 96,Windows,4
+México,Chrome 99,Windows,2
+México,Chrome Mobile 100,Android,37
+México,Chrome Mobile 101,Android,221
+México,Chrome Mobile 101,Apple iPhone,2
+México,Chrome Mobile 102,Android,2113
+México,Chrome Mobile 102,Apple iPhone,30
+México,Chrome Mobile 103,Android,2
+México,Chrome Mobile 38,Android,5
+México,Chrome Mobile 39,Android,1
+México,Chrome Mobile 42,Android,1
+México,Chrome Mobile 43,Android,1
+México,Chrome Mobile 46,Android,4
+México,Chrome Mobile 50,Android,4
+México,Chrome Mobile 52,Android,1
+México,Chrome Mobile 55,Android,4
+México,Chrome Mobile 58,Android,1
+México,Chrome Mobile 68,Android,2
+México,Chrome Mobile 70,Android,5
+México,Chrome Mobile 74,Android,3
+México,Chrome Mobile 77,Android,1
+México,Chrome Mobile 79,Android,6
+México,Chrome Mobile 80,Android,7
+México,Chrome Mobile 81,Android,11
+México,Chrome Mobile 83,Android,7
+México,Chrome Mobile 85,Android,5
+México,Chrome Mobile 86,Android,1
+México,Chrome Mobile 87,Android,13
+México,Chrome Mobile 88,Android,3
+México,Chrome Mobile 89,Android,10
+México,Chrome Mobile 90,Android,12
+México,Chrome Mobile 91,Android,8
+México,Chrome Mobile 92,Android,9
+México,Chrome Mobile 92,Apple iPad,1
+México,Chrome Mobile 92,Apple iPhone,1
+México,Chrome Mobile 93,Android,2
+México,Chrome Mobile 94,Android,9
+México,Chrome Mobile 95,Android,13
+México,Chrome Mobile 96,Android,17
+México,Chrome Mobile 97,Android,18
+México,Chrome Mobile 98,Android,14
+México,Chrome Mobile 99,Android,19
+México,Chrome WebView 101,Android,5
+México,Chrome WebView 102,Android,23
+México,Chrome WebView 69,Android,1
+México,Chrome WebView 74,Android,1
+México,Chrome WebView 85,Android,1
+México,Chrome WebView 88,Android,5
+México,Chrome WebView 92,Android,1
+México,Chrome WebView 94,Android,1
+México,Chrome WebView 95,Android,1
+México,Chrome WebView 98,Android,1
+México,Edge 101,Windows,1
+México,Edge 102,Windows,8
+México,Facebook 266,Android,1
+México,Facebook 332,Android,1
+México,Facebook 350,Android,1
+México,Facebook 362,Android,6
+México,Facebook 363,Android,2
+México,Facebook 368,Android,2
+México,Facebook 369,Android,12
+México,Firefox 101,Android,1
+México,Firefox 101,Windows,9
+México,Firefox 88,Linux,1
+México,Firefox 91,Windows,1
+México,GSA 169,Apple iPhone,1
+México,GSA 205,Apple iPhone,1
+México,GSA 213,Apple iPad,1
+México,GSA 213,Apple iPhone,24
+México,GSA 215,Apple iPhone,4
+México,IE 11,Windows,1
+México,MIUI Browser 12,Android,1
+México,MIUI Browser 13,Android,3
+México,Mobile Safari 10,Apple iPad,2
+México,Mobile Safari 11,Apple iPhone,1
+México,Mobile Safari 12,Apple iPad,2
+México,Mobile Safari 12,Apple iPhone,7
+México,Mobile Safari 13,Apple iPad,1
+México,Mobile Safari 13,Apple iPhone,2
+México,Mobile Safari 14,Apple iPhone,10
+México,Mobile Safari 15,Apple iPad,1
+México,Mobile Safari 15,Apple iPhone,28
+México,Opera 62,Android,1
+México,Opera 68,Android,1
+México,Opera 86,Windows,1
+México,Opera 87,Windows,2
+México,Opera Touch 2,Android,1
+México,Safari,Apple iPhone,2
+México,Safari 12,Mac,1
+México,Safari 15,Mac,2
+México,Samsung Browser 11,Android,2
+México,Samsung Browser 13,Android,2
+México,Samsung Browser 14,Android,1
+México,Samsung Browser 16,Android,4
+México,Samsung Browser 17,Android,37
+México,Samsung Browser 3,Android,1
+México,UCBrowser 13,Android,1
+Nacional,Chrome Mobile 102,Android,1
+Nayarit,Chrome 101,Chromium OS,1
+Nayarit,Chrome 102,Android,1
+Nayarit,Chrome 102,Linux,1
+Nayarit,Chrome 102,Windows,15
+Nayarit,Chrome 92,Android,1
+Nayarit,Chrome Mobile 100,Android,2
+Nayarit,Chrome Mobile 101,Android,8
+Nayarit,Chrome Mobile 102,Android,101
+Nayarit,Chrome Mobile 102,Apple iPhone,2
+Nayarit,Chrome Mobile 38,Android,1
+Nayarit,Chrome Mobile 81,Android,1
+Nayarit,Chrome Mobile 87,Android,1
+Nayarit,Chrome Mobile 88,Android,1
+Nayarit,Chrome Mobile 96,Android,1
+Nayarit,Chrome Mobile 97,Android,1
+Nayarit,Chrome Mobile 99,Android,1
+Nayarit,Edge 102,Windows,1
+Nayarit,Facebook 369,Android,1
+Nayarit,Firefox 101,Windows,1
+Nayarit,GSA 213,Apple iPhone,3
+Nayarit,GSA 85,Apple iPhone,1
+Nayarit,Mobile Safari 14,Apple iPhone,1
+Nayarit,Mobile Safari 15,Apple iPhone,1
+Nayarit,Opera 86,Windows,1
+Nayarit,Samsung Browser 17,Android,1
+Neuquen,Chrome 102,Windows,1
+Nevada,Chrome 87,Mac,1
+Nevada,Chrome Mobile 102,Android,5
+Nevada,Mobile Safari 15,Apple iPhone,1
+New Jersey,Chrome 100,Mac,1
+New Jersey,Chrome 102,Windows,1
+New Jersey,Chrome 76,Windows,3
+New Jersey,Chrome 79,Windows,1
+New Jersey,Chrome 83,Windows,1
+New Jersey,Chrome Mobile 102,Android,1
+New Mexico,Chrome Mobile 102,Android,1
+New York,Chrome 101,Mac,1
+New York,Chrome 102,Windows,1
+New York,Chrome Mobile 102,Android,2
+New York,GSA 213,Apple iPhone,1
+North Carolina,Chrome 102,Windows,1
+North Carolina,Chrome 86,Windows,1
+North Carolina,Chrome Mobile 101,Android,1
+North Carolina,Chrome Mobile 102,Android,1
+North Holland,Chrome 79,Windows,2
+North Holland,Chrome 80,Windows,2
+North Holland,Chrome 96,Windows,1
+North Holland,Chrome 97,Windows,2
+North Holland,Chrome 98,Windows,2
+North Rhine-Westphalia,Chrome 102,Windows,1
+Nuevo León,Chrome 100,Windows,3
+Nuevo León,Chrome 101,Linux,1
+Nuevo León,Chrome 101,Windows,15
+Nuevo León,Chrome 102,Android,6
+Nuevo León,Chrome 102,Chromium OS,1
+Nuevo León,Chrome 102,Mac,2
+Nuevo León,Chrome 102,Windows,170
+Nuevo León,Chrome 68,Windows,1
+Nuevo León,Chrome 75,Chromium OS,1
+Nuevo León,Chrome 79,Windows,2
+Nuevo León,Chrome 81,Android,1
+Nuevo León,Chrome 81,Windows,1
+Nuevo León,Chrome 84,Windows,3
+Nuevo León,Chrome 92,Android,24
+Nuevo León,Chrome 92,Linux,1
+Nuevo León,Chrome 92,Windows,1
+Nuevo León,Chrome 95,Windows,1
+Nuevo León,Chrome 96,Windows,1
+Nuevo León,Chrome 97,Windows,1
+Nuevo León,Chrome 98,Windows,1
+Nuevo León,Chrome 99,Windows,1
+Nuevo León,Chrome Mobile 100,Android,30
+Nuevo León,Chrome Mobile 101,Android,149
+Nuevo León,Chrome Mobile 101,Apple iPhone,2
+Nuevo León,Chrome Mobile 102,Android,1168
+Nuevo León,Chrome Mobile 102,Apple iPhone,23
+Nuevo León,Chrome Mobile 38,Android,5
+Nuevo León,Chrome Mobile 50,Android,1
+Nuevo León,Chrome Mobile 52,Android,1
+Nuevo León,Chrome Mobile 56,Android,1
+Nuevo León,Chrome Mobile 64,Android,1
+Nuevo León,Chrome Mobile 67,Android,2
+Nuevo León,Chrome Mobile 68,Android,3
+Nuevo León,Chrome Mobile 74,Android,1
+Nuevo León,Chrome Mobile 78,Android,1
+Nuevo León,Chrome Mobile 79,Android,7
+Nuevo León,Chrome Mobile 81,Android,4
+Nuevo León,Chrome Mobile 83,Android,7
+Nuevo León,Chrome Mobile 85,Android,2
+Nuevo León,Chrome Mobile 86,Android,1
+Nuevo León,Chrome Mobile 87,Android,10
+Nuevo León,Chrome Mobile 88,Android,3
+Nuevo León,Chrome Mobile 89,Android,4
+Nuevo León,Chrome Mobile 90,Android,4
+Nuevo León,Chrome Mobile 91,Android,12
+Nuevo León,Chrome Mobile 92,Android,6
+Nuevo León,Chrome Mobile 92,Apple iPhone,1
+Nuevo León,Chrome Mobile 93,Android,5
+Nuevo León,Chrome Mobile 94,Android,6
+Nuevo León,Chrome Mobile 95,Android,4
+Nuevo León,Chrome Mobile 96,Android,21
+Nuevo León,Chrome Mobile 97,Android,8
+Nuevo León,Chrome Mobile 98,Android,11
+Nuevo León,Chrome Mobile 98,Apple iPhone,1
+Nuevo León,Chrome Mobile 99,Android,23
+Nuevo León,Chrome WebView 101,Android,11
+Nuevo León,Chrome WebView 102,Android,10
+Nuevo León,Chrome WebView 70,Android,2
+Nuevo León,Chrome WebView 85,Android,1
+Nuevo León,Chrome WebView 86,Android,1
+Nuevo León,Chrome WebView 88,Android,1
+Nuevo León,Edge 101,Android,1
+Nuevo León,Edge 101,Windows,1
+Nuevo León,Edge 102,Windows,19
+Nuevo León,Edge 16,Windows,1
+Nuevo León,Facebook 305,Android,2
+Nuevo León,Facebook 328,Android,1
+Nuevo León,Facebook 332,Android,1
+Nuevo León,Facebook 356,Android,1
+Nuevo León,Facebook 362,Android,3
+Nuevo León,Facebook 365,Android,2
+Nuevo León,Facebook 368,Android,1
+Nuevo León,Facebook 369,Android,10
+Nuevo León,Firefox 101,Mac,1
+Nuevo León,Firefox 101,Windows,3
+Nuevo León,Firefox 48,KAIOS,1
+Nuevo León,Firefox 69,Windows,1
+Nuevo León,Firefox 87,Mac,1
+Nuevo León,Firefox 99,Linux,1
+Nuevo León,GSA 196,Apple iPhone,1
+Nuevo León,GSA 210,Apple iPhone,1
+Nuevo León,GSA 211,Apple iPhone,1
+Nuevo León,GSA 213,Apple iPhone,24
+Nuevo León,GSA 214,Apple iPhone,1
+Nuevo León,GSA 215,Apple iPhone,1
+Nuevo León,GSA 98,Apple iPhone,1
+Nuevo León,MIUI Browser 13,Android,3
+Nuevo León,MIUI Browser 13,Linux,1
+Nuevo León,Mobile Safari 12,Apple iPhone,5
+Nuevo León,Mobile Safari 13,Apple iPhone,2
+Nuevo León,Mobile Safari 14,Apple iPad,1
+Nuevo León,Mobile Safari 14,Apple iPhone,10
+Nuevo León,Mobile Safari 15,Apple iPhone,83
+Nuevo León,Opera 69,Android,1
+Nuevo León,Opera 86,Windows,1
+Nuevo León,Opera 87,Windows,1
+Nuevo León,Safari 15,Mac,2
+Nuevo León,Samsung Browser 11,Android,1
+Nuevo León,Samsung Browser 13,Android,6
+Nuevo León,Samsung Browser 14,Android,1
+Nuevo León,Samsung Browser 16,Android,2
+Nuevo León,Samsung Browser 17,Android,39
+Nuevo León,Samsung Browser 17,Linux,1
+Nuevo León,Samsung Browser 9,Android,1
+Nuevo León,WebKit 605,Apple iPad,1
+Nuevo León,WebKit 605,Apple iPhone,4
+Oaxaca,Chrome 100,Windows,1
+Oaxaca,Chrome 101,Windows,2
+Oaxaca,Chrome 102,Android,3
+Oaxaca,Chrome 102,Mac,1
+Oaxaca,Chrome 102,Windows,40
+Oaxaca,Chrome 92,Android,4
+Oaxaca,Chrome Mobile 100,Android,5
+Oaxaca,Chrome Mobile 101,Android,15
+Oaxaca,Chrome Mobile 101,Apple iPhone,2
+Oaxaca,Chrome Mobile 102,Android,186
+Oaxaca,Chrome Mobile 102,Apple iPhone,3
+Oaxaca,Chrome Mobile 38,Android,3
+Oaxaca,Chrome Mobile 79,Android,1
+Oaxaca,Chrome Mobile 87,Android,1
+Oaxaca,Chrome Mobile 89,Android,1
+Oaxaca,Chrome Mobile 91,Android,1
+Oaxaca,Chrome Mobile 93,Android,1
+Oaxaca,Chrome Mobile 95,Android,1
+Oaxaca,Chrome Mobile 96,Android,2
+Oaxaca,Chrome Mobile 97,Android,1
+Oaxaca,Chrome Mobile 98,Apple iPad,1
+Oaxaca,Chrome Mobile 99,Android,2
+Oaxaca,Chrome WebView 101,Android,1
+Oaxaca,Chrome WebView 102,Android,2
+Oaxaca,Edge 102,Windows,2
+Oaxaca,Facebook 332,Android,1
+Oaxaca,Facebook 369,Android,1
+Oaxaca,Firefox 101,Android,1
+Oaxaca,GSA 213,Apple iPhone,2
+Oaxaca,GSA 215,Apple iPhone,1
+Oaxaca,MIUI Browser 13,Android,2
+Oaxaca,Mobile Safari 15,Apple iPhone,2
+Oaxaca,Opera 63,Android,1
+Oaxaca,Samsung Browser 16,Android,1
+Oaxaca,Samsung Browser 17,Android,3
+Ohio,Chrome 100,Windows,1
+Ohio,Chrome 68,Windows,1
+Ohio,Chrome 88,Linux,3
+Ohio,Chrome 90,Windows,1
+Oklahoma,Chrome Mobile 102,Android,1
+Ontario,Chrome 96,Windows,1
+Ontario,Chrome 98,Windows,1
+Ontario,Chrome Mobile 102,Android,3
+Oregon,Chrome 98,Windows,1
+Oregon,Chrome Headless 97,Linux,14
+Oregon,Chrome Mobile 102,Android,1
+Oregon,Chrome Mobile 98,Android,1
+Oregon,Firefox 92,Linux,1
+Oregon,Mobile Safari 14,Apple iPhone,1
+Para,Chrome Mobile 102,Android,1
+Paris,Chrome 79,Windows,3
+Paris,Chrome 80,Windows,4
+Paris,Chrome 96,Windows,1
+Paris,Chrome 98,Windows,1
+Pennsylvania,Chrome Mobile 101,Android,1
+Pennsylvania,Edge 102,Windows,1
+Prebold,Mobile Safari 15,Apple iPhone,1
+Princes Town,Chrome 100,Windows,1
+Provincia de El Oro,Chrome 102,Windows,1
+Provincia de El Oro,Chrome Mobile 102,Android,2
+Provincia de El Oro,Chrome Mobile 91,Android,1
+Provincia de El Oro,Edge 102,Windows,1
+Provincia de Esmeraldas,Chrome Mobile 102,Android,1
+Provincia de Esmeraldas,Chrome WebView 102,Android,1
+Provincia de Los Rios,Chrome Mobile 102,Android,3
+Provincia de Manabi,Chrome Mobile 102,Android,1
+Provincia de Manabi,Edge 102,Windows,1
+Provincia de Manabi,Firefox 101,Windows,1
+Provincia de Monte Plata,Chrome Mobile 102,Android,1
+Provincia de Pichincha,Chrome 102,Windows,1
+Provincia de Pichincha,Chrome Mobile 102,Android,5
+Provincia de Pichincha,Chrome Mobile 91,Android,1
+Provincia de Pichincha,Mobile Safari 15,Apple iPhone,1
+Provincia de Pichincha,Samsung Browser 17,Android,1
+Provincia de San Jose,Chrome 102,Windows,1
+Provincia de San Jose,Chrome Mobile 102,Android,1
+Provincia de Santa Elena,Chrome Mobile 102,Android,1
+Provincia de Santiago,Chrome Mobile 102,Android,1
+Provincia de Santo Domingo,Chrome 100,Windows,1
+Provincia de Santo Domingo,Chrome 102,Windows,2
+Provincia de Santo Domingo,Chrome Mobile 100,Android,1
+Provincia de Santo Domingo,Chrome Mobile 102,Android,7
+Provincia de Santo Domingo,Chrome Mobile 102,Apple iPhone,1
+Provincia de Santo Domingo,Chrome WebView 102,Android,1
+Provincia de Santo Domingo,Mobile Safari 15,Apple iPhone,3
+Provincia de Santo Domingo,Samsung Browser 17,Android,1
+Provincia de Santo Domingo de los Tsachilas,Chrome Mobile 101,Android,1
+Provincia de Sucumbios,Chrome 92,Android,1
+Provincia del Azuay,Chrome 102,Windows,1
+Provincia del Azuay,Safari 14,Mac,1
+Provincia del Azuay,Samsung Browser 17,Android,1
+Provincia del Canar,Chrome Mobile 102,Android,1
+Provincia del Guayas,Chrome 102,Windows,2
+Provincia del Guayas,Chrome Mobile 101,Android,2
+Provincia del Guayas,Chrome Mobile 102,Android,9
+Provincia del Guayas,Chrome Mobile 102,Apple iPhone,1
+Provincia del Guayas,Chrome Mobile 94,Android,1
+Provincia del Guayas,Chrome Mobile 99,Android,1
+Provincia del Guayas,Chrome WebView 101,Android,2
+Provincia del Guayas,Firefox 94,Windows,1
+Puebla,Chrome 100,Mac,1
+Puebla,Chrome 100,Windows,1
+Puebla,Chrome 101,Linux,1
+Puebla,Chrome 101,Mac,1
+Puebla,Chrome 101,Windows,4
+Puebla,Chrome 102,Linux,5
+Puebla,Chrome 102,Mac,3
+Puebla,Chrome 102,Windows,106
+Puebla,Chrome 43,Android,1
+Puebla,Chrome 81,Android,1
+Puebla,Chrome 89,Windows,1
+Puebla,Chrome 92,Android,19
+Puebla,Chrome 94,Android,1
+Puebla,Chrome 96,Windows,1
+Puebla,Chrome 97,Windows,2
+Puebla,Chrome Mobile 100,Android,31
+Puebla,Chrome Mobile 101,Android,137
+Puebla,Chrome Mobile 101,Apple iPhone,3
+Puebla,Chrome Mobile 102,Android,787
+Puebla,Chrome Mobile 102,Apple iPhone,18
+Puebla,Chrome Mobile 37,Android,2
+Puebla,Chrome Mobile 38,Android,7
+Puebla,Chrome Mobile 55,Android,2
+Puebla,Chrome Mobile 62,Android,1
+Puebla,Chrome Mobile 66,Android,1
+Puebla,Chrome Mobile 68,Android,1
+Puebla,Chrome Mobile 70,Android,2
+Puebla,Chrome Mobile 74,Android,6
+Puebla,Chrome Mobile 78,Android,3
+Puebla,Chrome Mobile 79,Android,5
+Puebla,Chrome Mobile 80,Android,2
+Puebla,Chrome Mobile 81,Android,5
+Puebla,Chrome Mobile 83,Android,6
+Puebla,Chrome Mobile 85,Android,1
+Puebla,Chrome Mobile 87,Android,7
+Puebla,Chrome Mobile 88,Android,3
+Puebla,Chrome Mobile 89,Android,2
+Puebla,Chrome Mobile 90,Android,1
+Puebla,Chrome Mobile 91,Android,8
+Puebla,Chrome Mobile 91,Apple iPhone,1
+Puebla,Chrome Mobile 92,Android,5
+Puebla,Chrome Mobile 93,Android,5
+Puebla,Chrome Mobile 94,Android,9
+Puebla,Chrome Mobile 95,Android,9
+Puebla,Chrome Mobile 96,Android,10
+Puebla,Chrome Mobile 97,Android,5
+Puebla,Chrome Mobile 98,Android,11
+Puebla,Chrome Mobile 99,Android,10
+Puebla,Chrome WebView 101,Android,8
+Puebla,Chrome WebView 102,Android,4
+Puebla,Chrome WebView 70,Android,1
+Puebla,Chrome WebView 87,Android,1
+Puebla,Chrome WebView 88,Android,3
+Puebla,Chrome WebView 94,Android,1
+Puebla,Edge 101,Android,1
+Puebla,Edge 101,Windows,2
+Puebla,Edge 102,Apple iPad,1
+Puebla,Edge 102,Windows,6
+Puebla,Facebook 305,Android,1
+Puebla,Facebook 327,Android,1
+Puebla,Facebook 339,Android,1
+Puebla,Facebook 348,Android,1
+Puebla,Facebook 355,Android,1
+Puebla,Facebook 362,Android,2
+Puebla,Facebook 368,Android,1
+Puebla,Facebook 369,Android,3
+Puebla,Firefox 101,Windows,5
+Puebla,GSA 209,Apple iPhone,1
+Puebla,GSA 210,Apple iPhone,1
+Puebla,GSA 213,Apple iPhone,13
+Puebla,GSA 215,Apple iPhone,1
+Puebla,Mobile Safari 12,Apple iPhone,1
+Puebla,Mobile Safari 13,Apple iPhone,3
+Puebla,Mobile Safari 14,Apple iPhone,6
+Puebla,Mobile Safari 15,Apple iPhone,13
+Puebla,Opera 69,Android,1
+Puebla,Opera 86,Windows,2
+Puebla,Safari 15,Mac,1
+Puebla,Samsung Browser 13,Android,1
+Puebla,Samsung Browser 15,Android,2
+Puebla,Samsung Browser 16,Android,2
+Puebla,Samsung Browser 17,Android,11
+Quebec,Chrome Headless 91,Linux,1
+Quebec,Chrome Mobile 102,Android,2
+Querétaro,Chrome 100,Windows,3
+Querétaro,Chrome 101,Android,1
+Querétaro,Chrome 101,Linux,1
+Querétaro,Chrome 101,Windows,5
+Querétaro,Chrome 102,Android,1
+Querétaro,Chrome 102,Mac,1
+Querétaro,Chrome 102,Windows,53
+Querétaro,Chrome 37,Linux,1
+Querétaro,Chrome 91,Android,1
+Querétaro,Chrome 92,Android,8
+Querétaro,Chrome 95,Android,1
+Querétaro,Chrome Mobile 100,Android,17
+Querétaro,Chrome Mobile 101,Android,39
+Querétaro,Chrome Mobile 101,Apple iPhone,1
+Querétaro,Chrome Mobile 102,Android,366
+Querétaro,Chrome Mobile 102,Apple iPhone,6
+Querétaro,Chrome Mobile 64,Android,2
+Querétaro,Chrome Mobile 65,Android,1
+Querétaro,Chrome Mobile 68,Android,1
+Querétaro,Chrome Mobile 70,Android,1
+Querétaro,Chrome Mobile 74,Android,2
+Querétaro,Chrome Mobile 79,Android,1
+Querétaro,Chrome Mobile 80,Android,1
+Querétaro,Chrome Mobile 81,Android,1
+Querétaro,Chrome Mobile 83,Android,1
+Querétaro,Chrome Mobile 85,Android,1
+Querétaro,Chrome Mobile 87,Android,4
+Querétaro,Chrome Mobile 89,Android,1
+Querétaro,Chrome Mobile 90,Android,1
+Querétaro,Chrome Mobile 91,Android,4
+Querétaro,Chrome Mobile 92,Android,2
+Querétaro,Chrome Mobile 93,Android,2
+Querétaro,Chrome Mobile 94,Android,4
+Querétaro,Chrome Mobile 95,Android,2
+Querétaro,Chrome Mobile 95,Apple iPad,1
+Querétaro,Chrome Mobile 96,Android,3
+Querétaro,Chrome Mobile 97,Android,1
+Querétaro,Chrome Mobile 98,Android,4
+Querétaro,Chrome Mobile 99,Android,6
+Querétaro,Chrome WebView 100,Android,1
+Querétaro,Chrome WebView 101,Android,2
+Querétaro,Chrome WebView 102,Android,1
+Querétaro,Chrome WebView 46,Android,1
+Querétaro,Chrome WebView 74,Android,1
+Querétaro,Edge 101,Windows,1
+Querétaro,Edge 102,Windows,2
+Querétaro,Facebook 362,Android,1
+Querétaro,Facebook 364,Android,1
+Querétaro,Facebook 366,Android,1
+Querétaro,Facebook 369,Android,2
+Querétaro,Firefox 101,Android,1
+Querétaro,GSA 213,Apple iPhone,6
+Querétaro,GSA 214,Apple iPhone,1
+Querétaro,GSA 215,Apple iPhone,1
+Querétaro,MIUI Browser 13,Android,1
+Querétaro,Mobile Safari 12,Apple iPhone,2
+Querétaro,Mobile Safari 13,Apple iPhone,1
+Querétaro,Mobile Safari 14,Apple iPhone,5
+Querétaro,Opera 69,Android,1
+Querétaro,Safari 13,Mac,1
+Querétaro,Safari 14,Mac,1
+Querétaro,Samsung Browser 16,Android,1
+Querétaro,Samsung Browser 17,Android,16
+Querétaro,UCBrowser 11,Android,1
+Quintana Roo,Chrome 101,Windows,7
+Quintana Roo,Chrome 102,Chromium OS,1
+Quintana Roo,Chrome 102,Linux,2
+Quintana Roo,Chrome 102,Windows,37
+Quintana Roo,Chrome 83,Android,1
+Quintana Roo,Chrome 83,Windows,2
+Quintana Roo,Chrome 89,Android,1
+Quintana Roo,Chrome 92,Android,3
+Quintana Roo,Chrome Mobile 100,Android,5
+Quintana Roo,Chrome Mobile 101,Android,20
+Quintana Roo,Chrome Mobile 102,Android,236
+Quintana Roo,Chrome Mobile 102,Apple iPhone,6
+Quintana Roo,Chrome Mobile 103,Android,1
+Quintana Roo,Chrome Mobile 55,Android,1
+Quintana Roo,Chrome Mobile 64,Android,1
+Quintana Roo,Chrome Mobile 83,Android,1
+Quintana Roo,Chrome Mobile 86,Android,1
+Quintana Roo,Chrome Mobile 87,Android,1
+Quintana Roo,Chrome Mobile 91,Android,2
+Quintana Roo,Chrome Mobile 92,Android,1
+Quintana Roo,Chrome Mobile 94,Android,2
+Quintana Roo,Chrome Mobile 95,Android,2
+Quintana Roo,Chrome Mobile 96,Android,1
+Quintana Roo,Chrome Mobile 97,Android,1
+Quintana Roo,Chrome Mobile 99,Android,2
+Quintana Roo,Chrome WebView 101,Android,2
+Quintana Roo,Chrome WebView 102,Android,1
+Quintana Roo,Chrome WebView 88,Android,1
+Quintana Roo,Facebook 369,Android,2
+Quintana Roo,Firefox 101,Windows,2
+Quintana Roo,GSA 213,Apple iPhone,3
+Quintana Roo,GSA 214,Apple iPhone,1
+Quintana Roo,Mobile Safari 11,Apple iPad,1
+Quintana Roo,Mobile Safari 12,Apple iPad,1
+Quintana Roo,Mobile Safari 12,Apple iPhone,2
+Quintana Roo,Mobile Safari 14,Apple iPad,1
+Quintana Roo,Mobile Safari 14,Apple iPhone,3
+Quintana Roo,Mobile Safari 15,Apple iPhone,25
+Quintana Roo,Opera 86,Windows,1
+Quintana Roo,Safari 15,Mac,2
+Quintana Roo,Samsung Browser 11,Android,1
+Quintana Roo,Samsung Browser 14,Android,1
+Quintana Roo,Samsung Browser 17,Android,5
+Rheinland-Pfalz,Chrome Mobile 102,Android,1
+Saint Catherine,Samsung Browser 16,Android,1
+Salta,Chrome Mobile 102,Android,1
+San Luis Potosí,Chrome 100,Mac,1
+San Luis Potosí,Chrome 101,Mac,1
+San Luis Potosí,Chrome 101,Windows,3
+San Luis Potosí,Chrome 102,Android,1
+San Luis Potosí,Chrome 102,Linux,1
+San Luis Potosí,Chrome 102,Mac,1
+San Luis Potosí,Chrome 102,Windows,43
+San Luis Potosí,Chrome 92,Android,6
+San Luis Potosí,Chrome 96,Windows,1
+San Luis Potosí,Chrome Mobile 100,Android,5
+San Luis Potosí,Chrome Mobile 101,Android,26
+San Luis Potosí,Chrome Mobile 102,Android,233
+San Luis Potosí,Chrome Mobile 102,Apple iPhone,1
+San Luis Potosí,Chrome Mobile 55,Android,1
+San Luis Potosí,Chrome Mobile 70,Android,1
+San Luis Potosí,Chrome Mobile 72,Android,1
+San Luis Potosí,Chrome Mobile 78,Android,1
+San Luis Potosí,Chrome Mobile 81,Android,2
+San Luis Potosí,Chrome Mobile 83,Android,1
+San Luis Potosí,Chrome Mobile 85,Android,1
+San Luis Potosí,Chrome Mobile 86,Android,2
+San Luis Potosí,Chrome Mobile 88,Android,1
+San Luis Potosí,Chrome Mobile 90,Android,2
+San Luis Potosí,Chrome Mobile 91,Android,1
+San Luis Potosí,Chrome Mobile 93,Apple iPad,1
+San Luis Potosí,Chrome Mobile 94,Android,2
+San Luis Potosí,Chrome Mobile 95,Android,2
+San Luis Potosí,Chrome Mobile 96,Android,1
+San Luis Potosí,Chrome Mobile 97,Android,3
+San Luis Potosí,Chrome Mobile 98,Android,2
+San Luis Potosí,Chrome Mobile 99,Android,1
+San Luis Potosí,Chrome WebView 102,Android,1
+San Luis Potosí,Edge 102,Windows,2
+San Luis Potosí,Facebook 305,Android,1
+San Luis Potosí,Facebook 306,Android,1
+San Luis Potosí,Facebook 367,Android,1
+San Luis Potosí,Facebook 369,Android,2
+San Luis Potosí,Firefox 101,Windows,2
+San Luis Potosí,GSA 189,Apple iPhone,1
+San Luis Potosí,GSA 213,Apple iPhone,1
+San Luis Potosí,Mobile Safari 12,Apple iPhone,1
+San Luis Potosí,Mobile Safari 13,Apple iPhone,1
+San Luis Potosí,Mobile Safari 14,Apple iPad,1
+San Luis Potosí,Opera 63,Android,1
+San Luis Potosí,Opera 86,Windows,1
+San Luis Potosí,Safari 14,Mac,1
+San Luis Potosí,Safari 15,Mac,1
+San Luis Potosí,Samsung Browser 11,Android,1
+San Luis Potosí,Samsung Browser 14,Android,3
+San Luis Potosí,Samsung Browser 17,Android,3
+Santa Catarina,Chrome Mobile 102,Android,1
+Santiago Metropolitan,Chrome 102,Windows,1
+Santiago Metropolitan,Samsung Browser 14,Android,1
+Sao Paulo,Chrome 101,Chromium OS,1
+Sao Paulo,Chrome Mobile 102,Android,1
+Sao Paulo,Mobile Safari 15,Apple iPhone,1
+Segovia,Chrome Mobile 102,Android,1
+Sinaloa,Chrome 100,Mac,1
+Sinaloa,Chrome 101,Linux,1
+Sinaloa,Chrome 101,Windows,8
+Sinaloa,Chrome 102,Android,1
+Sinaloa,Chrome 102,Mac,1
+Sinaloa,Chrome 102,Windows,66
+Sinaloa,Chrome 70,Android,1
+Sinaloa,Chrome 70,Windows,1
+Sinaloa,Chrome 78,Windows,1
+Sinaloa,Chrome 85,Windows,1
+Sinaloa,Chrome 92,Android,7
+Sinaloa,Chrome 98,Windows,1
+Sinaloa,Chrome Mobile 100,Android,9
+Sinaloa,Chrome Mobile 101,Android,48
+Sinaloa,Chrome Mobile 102,Android,391
+Sinaloa,Chrome Mobile 102,Apple iPhone,17
+Sinaloa,Chrome Mobile 38,Android,2
+Sinaloa,Chrome Mobile 50,Android,1
+Sinaloa,Chrome Mobile 55,Android,1
+Sinaloa,Chrome Mobile 66,Android,1
+Sinaloa,Chrome Mobile 70,Android,1
+Sinaloa,Chrome Mobile 79,Android,1
+Sinaloa,Chrome Mobile 81,Android,2
+Sinaloa,Chrome Mobile 83,Android,3
+Sinaloa,Chrome Mobile 84,Android,1
+Sinaloa,Chrome Mobile 86,Android,2
+Sinaloa,Chrome Mobile 87,Android,3
+Sinaloa,Chrome Mobile 88,Android,1
+Sinaloa,Chrome Mobile 89,Android,2
+Sinaloa,Chrome Mobile 90,Android,1
+Sinaloa,Chrome Mobile 91,Android,3
+Sinaloa,Chrome Mobile 92,Android,1
+Sinaloa,Chrome Mobile 92,Apple iPhone,1
+Sinaloa,Chrome Mobile 93,Android,1
+Sinaloa,Chrome Mobile 94,Android,2
+Sinaloa,Chrome Mobile 95,Android,6
+Sinaloa,Chrome Mobile 96,Android,3
+Sinaloa,Chrome Mobile 97,Android,2
+Sinaloa,Chrome Mobile 98,Android,3
+Sinaloa,Chrome Mobile 99,Android,3
+Sinaloa,Chrome WebView 101,Android,3
+Sinaloa,Chrome WebView 102,Android,2
+Sinaloa,Chrome WebView 88,Android,4
+Sinaloa,Edge 102,Windows,7
+Sinaloa,Facebook 305,Android,1
+Sinaloa,Facebook 354,Android,1
+Sinaloa,Facebook 362,Android,1
+Sinaloa,Facebook 367,Android,1
+Sinaloa,Facebook 368,Android,1
+Sinaloa,Facebook 369,Android,1
+Sinaloa,Firefox 101,Android,1
+Sinaloa,GSA 211,Apple iPhone,3
+Sinaloa,GSA 213,Apple iPhone,9
+Sinaloa,GSA 214,Apple iPhone,1
+Sinaloa,MIUI Browser 13,Android,1
+Sinaloa,Mobile Safari 12,Apple iPhone,3
+Sinaloa,Mobile Safari 14,Apple iPhone,11
+Sinaloa,Opera 62,Android,1
+Sinaloa,Opera 86,Windows,1
+Sinaloa,Opera 87,Windows,1
+Sinaloa,Safari,Apple iPhone,1
+Sinaloa,Safari 13,Mac,1
+Sinaloa,Safari 14,Mac,1
+Sinaloa,Safari 15,Mac,1
+Sinaloa,Samsung Browser 16,Android,5
+Sinaloa,Samsung Browser 17,Android,9
+Sonora,Chrome 100,Chromium OS,1
+Sonora,Chrome 100,Mac,1
+Sonora,Chrome 100,Windows,2
+Sonora,Chrome 101,Chromium OS,1
+Sonora,Chrome 101,Windows,5
+Sonora,Chrome 102,Android,1
+Sonora,Chrome 102,Linux,1
+Sonora,Chrome 102,Windows,77
+Sonora,Chrome 70,Android,1
+Sonora,Chrome 79,Windows,1
+Sonora,Chrome 85,Windows,2
+Sonora,Chrome 92,Android,7
+Sonora,Chrome Mobile 100,Android,9
+Sonora,Chrome Mobile 100,Apple iPhone,2
+Sonora,Chrome Mobile 101,Android,38
+Sonora,Chrome Mobile 101,Apple iPhone,1
+Sonora,Chrome Mobile 102,Android,383
+Sonora,Chrome Mobile 102,Apple iPhone,11
+Sonora,Chrome Mobile 38,Android,1
+Sonora,Chrome Mobile 46,Android,1
+Sonora,Chrome Mobile 79,Android,1
+Sonora,Chrome Mobile 81,Android,2
+Sonora,Chrome Mobile 86,Android,1
+Sonora,Chrome Mobile 86,Apple iPad,1
+Sonora,Chrome Mobile 87,Android,3
+Sonora,Chrome Mobile 88,Android,1
+Sonora,Chrome Mobile 89,Android,1
+Sonora,Chrome Mobile 92,Android,5
+Sonora,Chrome Mobile 93,Android,2
+Sonora,Chrome Mobile 94,Android,2
+Sonora,Chrome Mobile 95,Android,1
+Sonora,Chrome Mobile 96,Android,3
+Sonora,Chrome Mobile 97,Android,2
+Sonora,Chrome Mobile 98,Android,1
+Sonora,Chrome Mobile 99,Android,5
+Sonora,Chrome WebView 101,Android,1
+Sonora,Chrome WebView 102,Android,2
+Sonora,Chrome WebView 74,Android,1
+Sonora,Chrome WebView 98,Android,1
+Sonora,Chrome WebView 99,Android,1
+Sonora,Edge 101,Windows,1
+Sonora,Edge 102,Windows,3
+Sonora,Facebook 303,Android,1
+Sonora,Facebook 362,Android,2
+Sonora,Facebook 368,Android,1
+Sonora,Facebook 369,Android,2
+Sonora,Firefox 101,Windows,1
+Sonora,GSA 210,Apple iPhone,1
+Sonora,GSA 213,Apple iPhone,13
+Sonora,GSA 214,Apple iPhone,1
+Sonora,GSA 215,Apple iPhone,2
+Sonora,Mobile Safari 12,Apple iPad,2
+Sonora,Mobile Safari 12,Apple iPhone,1
+Sonora,Mobile Safari 14,Apple iPad,1
+Sonora,Mobile Safari 14,Apple iPhone,14
+Sonora,Mobile Safari 15,Apple iPhone,6
+Sonora,Opera 86,Windows,1
+Sonora,Opera 87,Windows,1
+Sonora,Samsung Browser 11,Android,1
+Sonora,Samsung Browser 13,Android,1
+Sonora,Samsung Browser 16,Android,2
+Sonora,Samsung Browser 17,Android,9
+South Backa,Chrome 100,Windows,1
+South Carolina,Android Browser 4,Android,4
+South Carolina,Chrome 81,Linux,4
+South Carolina,Chrome Headless 75,Linux,1
+South Carolina,Chrome Mobile 100,Android,1
+South Carolina,Chrome Mobile 102,Android,1
+South Carolina,Mobile Safari 14,Apple iPhone,2
+South Carolina,Mobile Safari 15,Apple iPhone,2
+South Carolina,Samsung Browser 16,Android,2
+Sucre,Mobile Safari 15,Apple iPhone,1
+Tabasco,Chrome 100,Windows,1
+Tabasco,Chrome 102,Android,4
+Tabasco,Chrome 102,Linux,2
+Tabasco,Chrome 102,Mac,1
+Tabasco,Chrome 102,Windows,54
+Tabasco,Chrome 104,Windows,1
+Tabasco,Chrome 91,Mac,1
+Tabasco,Chrome 92,Android,8
+Tabasco,Chrome 96,Windows,1
+Tabasco,Chrome 98,Android,1
+Tabasco,Chrome 99,Windows,2
+Tabasco,Chrome Mobile 100,Android,8
+Tabasco,Chrome Mobile 101,Android,19
+Tabasco,Chrome Mobile 102,Android,328
+Tabasco,Chrome Mobile 102,Apple iPhone,2
+Tabasco,Chrome Mobile 38,Android,3
+Tabasco,Chrome Mobile 68,Android,1
+Tabasco,Chrome Mobile 77,Android,1
+Tabasco,Chrome Mobile 78,Android,1
+Tabasco,Chrome Mobile 79,Android,1
+Tabasco,Chrome Mobile 81,Android,2
+Tabasco,Chrome Mobile 84,Android,1
+Tabasco,Chrome Mobile 85,Android,1
+Tabasco,Chrome Mobile 87,Android,3
+Tabasco,Chrome Mobile 89,Android,2
+Tabasco,Chrome Mobile 91,Android,5
+Tabasco,Chrome Mobile 92,Android,2
+Tabasco,Chrome Mobile 92,Apple iPhone,1
+Tabasco,Chrome Mobile 94,Android,1
+Tabasco,Chrome Mobile 95,Android,3
+Tabasco,Chrome Mobile 96,Android,2
+Tabasco,Chrome Mobile 97,Android,2
+Tabasco,Chrome Mobile 99,Android,3
+Tabasco,Chrome WebView 101,Android,3
+Tabasco,Chrome WebView 102,Android,2
+Tabasco,Chrome WebView 81,Android,1
+Tabasco,Chrome WebView 99,Android,1
+Tabasco,Edge 102,Windows,4
+Tabasco,Facebook 369,Android,3
+Tabasco,Firefox 101,Windows,3
+Tabasco,Firefox 83,Android,1
+Tabasco,Firefox 99,Windows,1
+Tabasco,GSA 189,Apple iPhone,1
+Tabasco,GSA 211,Apple iPhone,1
+Tabasco,GSA 213,Apple iPhone,1
+Tabasco,MIUI Browser 12,Android,1
+Tabasco,MIUI Browser 13,Android,1
+Tabasco,Mobile Safari 14,Apple iPhone,1
+Tabasco,Mobile Safari 15,Apple iPhone,2
+Tabasco,Opera 62,Android,1
+Tabasco,Opera 63,Android,1
+Tabasco,Opera 86,Windows,1
+Tabasco,Opera 87,Windows,1
+Tabasco,Samsung Browser 12,Android,1
+Tabasco,Samsung Browser 14,Android,1
+Tabasco,Samsung Browser 16,Android,2
+Tabasco,Samsung Browser 17,Android,7
+Tamaulipas,Chrome 100,Windows,1
+Tamaulipas,Chrome 101,Chromium OS,1
+Tamaulipas,Chrome 101,Windows,4
+Tamaulipas,Chrome 102,Android,2
+Tamaulipas,Chrome 102,Windows,69
+Tamaulipas,Chrome 40,Android,1
+Tamaulipas,Chrome 92,Android,5
+Tamaulipas,Chrome 95,Windows,1
+Tamaulipas,Chrome 96,Windows,1
+Tamaulipas,Chrome Mobile 100,Android,4
+Tamaulipas,Chrome Mobile 101,Android,23
+Tamaulipas,Chrome Mobile 102,Android,394
+Tamaulipas,Chrome Mobile 102,Apple iPhone,9
+Tamaulipas,Chrome Mobile 38,Android,5
+Tamaulipas,Chrome Mobile 50,Android,1
+Tamaulipas,Chrome Mobile 55,Android,1
+Tamaulipas,Chrome Mobile 70,Android,1
+Tamaulipas,Chrome Mobile 74,Android,1
+Tamaulipas,Chrome Mobile 79,Android,1
+Tamaulipas,Chrome Mobile 81,Android,3
+Tamaulipas,Chrome Mobile 83,Android,1
+Tamaulipas,Chrome Mobile 84,Android,1
+Tamaulipas,Chrome Mobile 86,Android,2
+Tamaulipas,Chrome Mobile 87,Android,4
+Tamaulipas,Chrome Mobile 87,Apple iPhone,2
+Tamaulipas,Chrome Mobile 88,Android,1
+Tamaulipas,Chrome Mobile 89,Android,3
+Tamaulipas,Chrome Mobile 90,Android,4
+Tamaulipas,Chrome Mobile 91,Android,4
+Tamaulipas,Chrome Mobile 92,Android,6
+Tamaulipas,Chrome Mobile 93,Android,2
+Tamaulipas,Chrome Mobile 94,Android,2
+Tamaulipas,Chrome Mobile 96,Android,2
+Tamaulipas,Chrome Mobile 97,Android,2
+Tamaulipas,Chrome Mobile 98,Android,5
+Tamaulipas,Chrome Mobile 99,Android,1
+Tamaulipas,Chrome WebView 101,Android,1
+Tamaulipas,Chrome WebView 102,Android,3
+Tamaulipas,Chrome WebView 56,Android,1
+Tamaulipas,Chrome WebView 88,Android,2
+Tamaulipas,Chrome WebView 98,Android,1
+Tamaulipas,Edge 102,Windows,4
+Tamaulipas,Facebook 348,Android,1
+Tamaulipas,Facebook 360,Android,1
+Tamaulipas,Facebook 369,Android,4
+Tamaulipas,Firefox 101,Windows,2
+Tamaulipas,GSA 209,Apple iPhone,1
+Tamaulipas,GSA 210,Apple iPhone,1
+Tamaulipas,GSA 213,Apple iPhone,6
+Tamaulipas,MIUI Browser 13,Android,1
+Tamaulipas,Mobile Safari 12,Apple iPad,1
+Tamaulipas,Mobile Safari 13,Apple iPhone,1
+Tamaulipas,Mobile Safari 14,Apple iPad,1
+Tamaulipas,Mobile Safari 14,Apple iPhone,5
+Tamaulipas,Mobile Safari 15,Apple iPhone,1
+Tamaulipas,Opera 86,Windows,2
+Tamaulipas,Samsung Browser 11,Android,3
+Tamaulipas,Samsung Browser 13,Android,1
+Tamaulipas,Samsung Browser 17,Android,3
+Tamaulipas,Silk 100,Android,1
+Tamil Nadu,Chrome Mobile 64,Android,1
+Tamil Nadu,Chrome Mobile 90,Android,1
+Telangana,Chrome 101,Chromium OS,2
+Tennessee,Chrome 102,Windows,1
+Texas,Chrome 100,Windows,1
+Texas,Chrome 101,Mac,1
+Texas,Chrome 101,Windows,3
+Texas,Chrome 102,Windows,10
+Texas,Chrome 79,Windows,10
+Texas,Chrome 80,Windows,14
+Texas,Chrome 90,Windows,1
+Texas,Chrome 96,Windows,11
+Texas,Chrome 97,Windows,6
+Texas,Chrome 98,Windows,12
+Texas,Chrome Mobile 100,Android,3
+Texas,Chrome Mobile 100,Apple iPhone,2
+Texas,Chrome Mobile 101,Android,7
+Texas,Chrome Mobile 102,Android,11
+Texas,Chrome Mobile 59,Android,6
+Texas,Edge 102,Windows,3
+Texas,GSA 213,Apple iPhone,2
+Texas,GSA 215,Apple iPhone,1
+Texas,IE 11,Windows,1
+Texas,Mobile Safari 14,Apple iPhone,1
+Texas,Mobile Safari 15,Apple iPhone,3
+Texas,Samsung Browser 16,Android,5
+Texas,Samsung Browser 17,Android,2
+Tlaxcala,Chrome 101,Windows,2
+Tlaxcala,Chrome 102,Android,1
+Tlaxcala,Chrome 102,Windows,12
+Tlaxcala,Chrome 92,Android,1
+Tlaxcala,Chrome 98,Android,1
+Tlaxcala,Chrome Mobile 101,Android,11
+Tlaxcala,Chrome Mobile 102,Android,112
+Tlaxcala,Chrome Mobile 102,Apple iPhone,2
+Tlaxcala,Chrome Mobile 80,Android,1
+Tlaxcala,Chrome Mobile 89,Android,1
+Tlaxcala,Chrome Mobile 90,Android,1
+Tlaxcala,Chrome Mobile 92,Apple iPad,1
+Tlaxcala,Chrome Mobile 94,Android,1
+Tlaxcala,Chrome Mobile 96,Android,1
+Tlaxcala,Chrome Mobile 97,Android,1
+Tlaxcala,Chrome Mobile 98,Android,3
+Tlaxcala,Chrome WebView 102,Android,2
+Tlaxcala,Edge 102,Windows,2
+Tlaxcala,Facebook 369,Android,1
+Tlaxcala,Firefox 100,Windows,1
+Tlaxcala,GSA 213,Apple iPhone,1
+Tlaxcala,Mobile Safari 14,Apple iPhone,2
+Tlaxcala,Opera 69,Android,1
+Tlaxcala,Samsung Browser 17,Android,1
+Utah,Chrome Mobile 101,Android,1
+Uusimaa,Chrome 79,Windows,11
+Uusimaa,Chrome 80,Windows,4
+Uusimaa,Chrome 96,Windows,2
+Uusimaa,Chrome 97,Windows,2
+Uusimaa,Chrome 98,Windows,2
+Uusimaa,Samsung Browser 17,Android,1
+Valladolid,Chrome Mobile 102,Android,1
+Veracruz,Chrome 100,Windows,1
+Veracruz,Chrome 101,Windows,4
+Veracruz,Chrome 102,Android,10
+Veracruz,Chrome 102,Chromium OS,1
+Veracruz,Chrome 102,Mac,1
+Veracruz,Chrome 102,Windows,123
+Veracruz,Chrome 63,Linux,1
+Veracruz,Chrome 76,Windows,1
+Veracruz,Chrome 83,Android,1
+Veracruz,Chrome 89,Windows,1
+Veracruz,Chrome 91,Mac,1
+Veracruz,Chrome 92,Android,10
+Veracruz,Chrome 97,Android,1
+Veracruz,Chrome Mobile 100,Android,17
+Veracruz,Chrome Mobile 101,Android,89
+Veracruz,Chrome Mobile 101,Apple iPhone,1
+Veracruz,Chrome Mobile 102,Android,921
+Veracruz,Chrome Mobile 102,Apple iPhone,14
+Veracruz,Chrome Mobile 103,Android,1
+Veracruz,Chrome Mobile 38,Android,1
+Veracruz,Chrome Mobile 46,Android,1
+Veracruz,Chrome Mobile 50,Android,1
+Veracruz,Chrome Mobile 55,Android,3
+Veracruz,Chrome Mobile 56,Android,1
+Veracruz,Chrome Mobile 68,Android,2
+Veracruz,Chrome Mobile 69,Android,1
+Veracruz,Chrome Mobile 70,Android,1
+Veracruz,Chrome Mobile 72,Android,1
+Veracruz,Chrome Mobile 74,Android,2
+Veracruz,Chrome Mobile 79,Android,5
+Veracruz,Chrome Mobile 81,Android,4
+Veracruz,Chrome Mobile 85,Android,2
+Veracruz,Chrome Mobile 86,Android,1
+Veracruz,Chrome Mobile 87,Android,4
+Veracruz,Chrome Mobile 87,Apple iPad,1
+Veracruz,Chrome Mobile 88,Android,1
+Veracruz,Chrome Mobile 90,Android,8
+Veracruz,Chrome Mobile 90,Apple iPhone,1
+Veracruz,Chrome Mobile 91,Android,8
+Veracruz,Chrome Mobile 92,Android,2
+Veracruz,Chrome Mobile 92,Apple iPad,1
+Veracruz,Chrome Mobile 93,Android,3
+Veracruz,Chrome Mobile 94,Android,8
+Veracruz,Chrome Mobile 95,Android,2
+Veracruz,Chrome Mobile 96,Android,7
+Veracruz,Chrome Mobile 97,Android,2
+Veracruz,Chrome Mobile 98,Android,8
+Veracruz,Chrome Mobile 99,Android,12
+Veracruz,Chrome WebView 101,Android,11
+Veracruz,Chrome WebView 102,Android,6
+Veracruz,Chrome WebView 55,Android,1
+Veracruz,Chrome WebView 74,Android,1
+Veracruz,Chrome WebView 88,Android,4
+Veracruz,Chrome WebView 93,Android,1
+Veracruz,Edge 102,Windows,7
+Veracruz,Edge 46,Android,1
+Veracruz,Facebook 291,Android,1
+Veracruz,Facebook 304,Android,1
+Veracruz,Facebook 305,Android,2
+Veracruz,Facebook 306,Android,1
+Veracruz,Facebook 340,Android,1
+Veracruz,Facebook 361,Android,1
+Veracruz,Facebook 362,Android,1
+Veracruz,Facebook 368,Android,1
+Veracruz,Facebook 369,Android,8
+Veracruz,Firefox 100,Linux,1
+Veracruz,Firefox 100,Windows,1
+Veracruz,Firefox 101,Android,1
+Veracruz,Firefox 101,Windows,5
+Veracruz,Firefox 97,Windows,1
+Veracruz,GSA 213,Apple iPhone,10
+Veracruz,GSA 214,Apple iPhone,1
+Veracruz,GSA 215,Apple iPhone,3
+Veracruz,MIUI Browser 13,Android,2
+Veracruz,Mobile Safari 11,Apple iPhone,1
+Veracruz,Mobile Safari 12,Apple iPad,1
+Veracruz,Mobile Safari 12,Apple iPhone,5
+Veracruz,Mobile Safari 13,Apple iPhone,2
+Veracruz,Mobile Safari 14,Apple iPhone,6
+Veracruz,Mobile Safari 15,Apple iPhone,3
+Veracruz,Opera 62,Android,1
+Veracruz,Opera 68,Android,1
+Veracruz,Safari 13,Mac,1
+Veracruz,Safari 14,Mac,1
+Veracruz,Safari 15,Mac,2
+Veracruz,Samsung Browser 11,Android,1
+Veracruz,Samsung Browser 16,Android,2
+Veracruz,Samsung Browser 17,Android,10
+Veracruz,Samsung Browser 3,Android,1
+Veracruz,Samsung Browser 4,Android,1
+Veracruz,UCBrowser 11,Apple iPhone,1
+Veracruz,WebKit 605,Apple iPhone,1
+Victoria,Mobile Safari 15,Apple iPhone,1
+Vienna,Chrome 79,Windows,4
+Vienna,Chrome 80,Windows,2
+Vienna,Chrome 97,Windows,1
+Virginia,Chrome 79,Windows,4
+Virginia,Chrome 80,Windows,5
+Virginia,Chrome 92,Windows,4
+Virginia,Chrome 96,Windows,3
+Virginia,Chrome 97,Windows,3
+Virginia,Chrome Mobile 102,Android,1
+Virginia,Chrome Mobile 95,Android,1
+Virginia,Facebook 368,Android,1
+Washington,Chrome 64,Windows,1
+Washington,Chrome 79,Windows,10
+Washington,Chrome 80,Windows,7
+Washington,Chrome 86,Windows,1
+Washington,Chrome 96,Windows,3
+Washington,Chrome 97,Windows,3
+Washington,Chrome 98,Windows,4
+West Java,Chrome 100,Windows,1
+West Java,Mobile Safari 15,Apple iPhone,1
+Wisconsin,Chrome Mobile 102,Android,1
+Wyoming,Chrome 79,Windows,12
+Wyoming,Chrome 80,Windows,9
+Wyoming,Chrome 96,Windows,7
+Wyoming,Chrome 97,Windows,6
+Wyoming,Chrome 98,Windows,4
+Yucatán,Chrome 101,Windows,1
+Yucatán,Chrome 102,Mac,2
+Yucatán,Chrome 102,Windows,41
+Yucatán,Chrome 91,Android,1
+Yucatán,Chrome 92,Android,8
+Yucatán,Chrome Mobile 100,Android,7
+Yucatán,Chrome Mobile 101,Android,30
+Yucatán,Chrome Mobile 101,Apple iPhone,1
+Yucatán,Chrome Mobile 102,Android,381
+Yucatán,Chrome Mobile 102,Apple iPhone,2
+Yucatán,Chrome Mobile 50,Android,1
+Yucatán,Chrome Mobile 68,Android,2
+Yucatán,Chrome Mobile 74,Android,1
+Yucatán,Chrome Mobile 79,Android,1
+Yucatán,Chrome Mobile 83,Android,1
+Yucatán,Chrome Mobile 84,Apple iPad,1
+Yucatán,Chrome Mobile 85,Android,1
+Yucatán,Chrome Mobile 87,Android,6
+Yucatán,Chrome Mobile 88,Android,1
+Yucatán,Chrome Mobile 89,Android,1
+Yucatán,Chrome Mobile 90,Android,1
+Yucatán,Chrome Mobile 91,Android,4
+Yucatán,Chrome Mobile 92,Android,2
+Yucatán,Chrome Mobile 94,Android,1
+Yucatán,Chrome Mobile 95,Android,2
+Yucatán,Chrome Mobile 96,Android,5
+Yucatán,Chrome Mobile 97,Android,4
+Yucatán,Chrome Mobile 98,Android,6
+Yucatán,Chrome Mobile 99,Android,6
+Yucatán,Chrome Mobile 99,Apple iPhone,1
+Yucatán,Chrome WebView 102,Android,1
+Yucatán,Chrome WebView 69,Android,1
+Yucatán,Chrome WebView 88,Android,1
+Yucatán,Edge 102,Windows,1
+Yucatán,Facebook 348,Android,1
+Yucatán,Facebook 369,Android,1
+Yucatán,Firefox 101,Windows,2
+Yucatán,GSA 197,Apple iPhone,1
+Yucatán,GSA 211,Apple iPhone,1
+Yucatán,GSA 213,Apple iPhone,4
+Yucatán,GSA 214,Apple iPhone,1
+Yucatán,MIUI Browser 12,Android,1
+Yucatán,Mobile Safari 12,Apple iPhone,1
+Yucatán,Mobile Safari 14,Apple iPhone,2
+Yucatán,Opera 64,Android,1
+Yucatán,Opera 87,Windows,1
+Yucatán,Samsung Browser 11,Android,1
+Yucatán,Samsung Browser 16,Android,1
+Yucatán,Samsung Browser 17,Android,12
+Zacatecas,Chrome 101,Windows,1
+Zacatecas,Chrome 102,Android,1
+Zacatecas,Chrome 102,Chromium OS,1
+Zacatecas,Chrome 102,Windows,14
+Zacatecas,Chrome Mobile 100,Android,1
+Zacatecas,Chrome Mobile 101,Android,5
+Zacatecas,Chrome Mobile 102,Android,100
+Zacatecas,Chrome Mobile 71,Android,1
+Zacatecas,Chrome Mobile 88,Android,1
+Zacatecas,Chrome Mobile 90,Android,1
+Zacatecas,Chrome Mobile 91,Android,1
+Zacatecas,Chrome Mobile 93,Android,1
+Zacatecas,Chrome Mobile 94,Android,2
+Zacatecas,Chrome Mobile 95,Android,1
+Zacatecas,Chrome Mobile 96,Android,1
+Zacatecas,Chrome Mobile 96,Apple iPhone,1
+Zacatecas,Chrome Mobile 98,Android,2
+Zacatecas,Chrome Mobile 99,Android,2
+Zacatecas,Edge 102,Windows,2
+Zacatecas,Firefox 101,Windows,3
+Zacatecas,Firefox 102,Windows,1
+Zacatecas,GSA 213,Apple iPhone,1
+Zacatecas,MIUI Browser 13,Android,1
+Zacatecas,Opera Touch 3,Apple iPhone,1
+Zacatecas,Samsung Browser 16,Android,2
+Zacatecas,Samsung Browser 17,Android,1
